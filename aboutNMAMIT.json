@@ -202,32 +202,6 @@
       "question": "who is the Vice Principal & Controller of Examinations of NMAMIT?",
       "answer": "Dr. Shrinivasa Rao B.R.",
       "source": "https://nmamit.nitte.edu.in/vice-principal.php"
-    },
-    {
-      "question": "give me the parent login website for Autonomous/VTU?",
-      "answer": "the login website for parent login website for Autonomous/VTU is http://parent-login.nmamit.in"
-    },
-    {
-      "question": "give me the parent login website for B.Tech(Nitte University)?",
-      "answer": "the login website for parent login website for B.Tech(Nitte University) is https://studentportal.universitysolutions.in"
-    },
-    {
-      "question": "what is the mobile app name in which a student tracks his academics?",
-      "answer": "Uniclare, download link: https://studentportal.universitysolutions.in/UNICLARE.html"
-    },
-    {
-      "question": "where can I check my daughter/son semester results?",
-      "answer": "you can check it at http://nmamit.in/result/"
-    },
-    {
-      "question": "what are the e-resources provided by VTU for the students?",
-      "answer": "Facilities provided by VTU are VTU e-Shikshana Programme, E-Content, E-Resources",
-      "source": "http://elearning.vtu.ac.in/esk3.php, http://nptel.vtu.ac.in/econtent, http://elearning.vtu.ac.in/e-Res.php"
-    },
-    {
-      "question": "what are the e-resources provided by NMAMIT for the students",
-      "answer": "Moodle, CAEG Youtube channel(1st year subject)",
-      "source": "http://guru.nmamit.in, http://youtube.com/nmamit/mechanical"
     }
   ]
 }
