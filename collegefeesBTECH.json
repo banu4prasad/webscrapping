@@ -1,116 +1,116 @@
 {
-  "Q&A": [
+ "questions_and_answers": [
     {
-      "Q": "What is the tuition fee for the Computer Science branch at NMAM Institute of Technology?",
-      "A": "The tuition fee for the Computer Science branch at NMAM Institute of Technology is INR 300,000 per annum for General category students and INR 350,000 per annum for NRI category students."
+      "question": "What is the tuition fee for the Computer Science branch at NMAM Institute of Technology?",
+      "answer": "The tuition fee for the Computer Science branch at NMAM Institute of Technology is INR 300,000 per annum for General category students and INR 350,000 per annum for NRI category students."
     },
     {
-      "Q": "What is the tuition fee for the Artificial Intelligence & Data Science branch at NMAM Institute of Technology?",
-      "A": "The tuition fee for the Artificial Intelligence & Data Science branch at NMAM Institute of Technology is INR 300,000 per annum for General category students and INR 350,000 per annum for NRI category students."
+      "question": "What is the tuition fee for the Artificial Intelligence & Data Science branch at NMAM Institute of Technology?",
+      "answer": "The tuition fee for the Artificial Intelligence & Data Science branch at NMAM Institute of Technology is INR 300,000 per annum for General category students and INR 350,000 per annum for NRI category students."
     },
     {
-      "Q": "What is the tuition fee for the Artificial Intelligence & Machine Learning branch at NMAM Institute of Technology?",
-      "A": "The tuition fee for the Artificial Intelligence & Machine Learning branch at NMAM Institute of Technology is INR 300,000 per annum for General category students and INR 350,000 per annum for NRI category students."
+      "question": "What is the tuition fee for the Artificial Intelligence & Machine Learning branch at NMAM Institute of Technology?",
+      "answer": "The tuition fee for the Artificial Intelligence & Machine Learning branch at NMAM Institute of Technology is INR 300,000 per annum for General category students and INR 350,000 per annum for NRI category students."
     },
     {
-      "Q": "What is the tuition fee for the Computer Science (Cyber Security) branch at NMAM Institute of Technology?",
-      "A": "The tuition fee for the Computer Science (Cyber Security) branch at NMAM Institute of Technology is INR 300,000 per annum for General category students and INR 350,000 per annum for NRI category students."
+      "question": "What is the tuition fee for the Computer Science (Cyber Security) branch at NMAM Institute of Technology?",
+      "answer": "The tuition fee for the Computer Science (Cyber Security) branch at NMAM Institute of Technology is INR 300,000 per annum for General category students and INR 350,000 per annum for NRI category students."
     },
     {
-      "Q": "What is the tuition fee for the Computer Science (Full Stack Development specialization) branch at NMAM Institute of Technology?",
-      "A": "The tuition fee for the Computer Science (Full Stack Development specialization) branch at NMAM Institute of Technology is INR 350,000 per annum for General category students and INR 400,000 per annum for NRI category students."
+      "question": "What is the tuition fee for the Computer Science (Full Stack Development specialization) branch at NMAM Institute of Technology?",
+      "answer": "The tuition fee for the Computer Science (Full Stack Development specialization) branch at NMAM Institute of Technology is INR 350,000 per annum for General category students and INR 400,000 per annum for NRI category students."
     },
     {
-      "Q": "What is the tuition fee for the Computer & Communication branch at NMAM Institute of Technology?",
-      "A": "The tuition fee for the Computer & Communication branch at NMAM Institute of Technology is INR 200,000 per annum for General category students and INR 250,000 per annum for NRI category students."
+      "question": "What is the tuition fee for the Computer & Communication branch at NMAM Institute of Technology?",
+      "answer": "The tuition fee for the Computer & Communication branch at NMAM Institute of Technology is INR 200,000 per annum for General category students and INR 250,000 per annum for NRI category students."
     },
     {
-      "Q": "What is the tuition fee for the Biotechnology branch at NMAM Institute of Technology?",
-      "A": "The tuition fee for the Biotechnology branch at NMAM Institute of Technology is INR 125,000 per annum for General category students and INR 150,000 per annum for NRI category students."
+      "question": "What is the tuition fee for the Biotechnology branch at NMAM Institute of Technology?",
+      "answer": "The tuition fee for the Biotechnology branch at NMAM Institute of Technology is INR 125,000 per annum for General category students and INR 150,000 per annum for NRI category students."
     },
     {
-      "Q": "What is the tuition fee for the Civil branch at NMAM Institute of Technology?",
-      "A": "The tuition fee for the Civil branch at NMAM Institute of Technology is INR 125,000 per annum for General category students and INR 150,000 per annum for NRI category students."
+      "question": "What is the tuition fee for the Civil branch at NMAM Institute of Technology?",
+      "answer": "The tuition fee for the Civil branch at NMAM Institute of Technology is INR 125,000 per annum for General category students and INR 150,000 per annum for NRI category students."
     },
     {
-      "Q": "What is the tuition fee for the Electrical & Electronics branch at NMAM Institute of Technology?",
-      "A": "The tuition fee for the Electrical & Electronics branch at NMAM Institute of Technology is INR 125,000 per annum for General category students and INR 150,000 per annum for NRI category students."
+      "question": "What is the tuition fee for the Electrical & Electronics branch at NMAM Institute of Technology?",
+      "answer": "The tuition fee for the Electrical & Electronics branch at NMAM Institute of Technology is INR 125,000 per annum for General category students and INR 150,000 per annum for NRI category students."
     },
     {
-      "Q": "What is the tuition fee for the Electronics & Communication branch at NMAM Institute of Technology?",
-      "A": "The tuition fee for the Electronics & Communication branch at NMAM Institute of Technology is INR 175,000 per annum for General category students and INR 200,000 per annum for NRI category students."
+      "question": "What is the tuition fee for the Electronics & Communication branch at NMAM Institute of Technology?",
+      "answer": "The tuition fee for the Electronics & Communication branch at NMAM Institute of Technology is INR 175,000 per annum for General category students and INR 200,000 per annum for NRI category students."
     },
     {
-      "Q": "What is the tuition fee for the Electronics & Communication (Advanced Communication Technology) branch at NMAM Institute of Technology?",
-      "A": "The tuition fee for the Electronics & Communication (Advanced Communication Technology) branch at NMAM Institute of Technology is INR 175,000 per annum for General category students and INR 200,000 per annum for NRI category students."
+      "question": "What is the tuition fee for the Electronics & Communication (Advanced Communication Technology) branch at NMAM Institute of Technology?",
+      "answer": "The tuition fee for the Electronics & Communication (Advanced Communication Technology) branch at NMAM Institute of Technology is INR 175,000 per annum for General category students and INR 200,000 per annum for NRI category students."
     },
     {
-      "Q": "What is the tuition fee for the Electronics (VLSI Design & Technology) branch at NMAM Institute of Technology?",
-      "A": "The tuition fee for the Electronics (VLSI Design & Technology) branch at NMAM Institute of Technology is INR 175,000 per annum for General category students and INR 200,000 per annum for NRI category students."
+      "question": "What is the tuition fee for the Electronics (VLSI Design & Technology) branch at NMAM Institute of Technology?",
+      "answer": "The tuition fee for the Electronics (VLSI Design & Technology) branch at NMAM Institute of Technology is INR 175,000 per annum for General category students and INR 200,000 per annum for NRI category students."
     },
     {
-      "Q": "What is the tuition fee for the Information Science branch at NMAM Institute of Technology?",
-      "A": "The tuition fee for the Information Science branch at NMAM Institute of Technology is INR 300,000 per annum for General category students and INR 350,000 per annum for NRI category students."
+      "question": "What is the tuition fee for the Information Science branch at NMAM Institute of Technology?",
+      "answer": "The tuition fee for the Information Science branch at NMAM Institute of Technology is INR 300,000 per annum for General category students and INR 350,000 per annum for NRI category students."
     },
     {
-      "Q": "What is the tuition fee for the Robotics & Artificial Intelligence branch at NMAM Institute of Technology?",
-      "A": "The tuition fee for the Robotics & Artificial Intelligence branch at NMAM Institute of Technology is INR 175,000 per annum for General category students and INR 200,000 per annum for NRI category students."
+      "question": "What is the tuition fee for the Robotics & Artificial Intelligence branch at NMAM Institute of Technology?",
+      "answer": "The tuition fee for the Robotics & Artificial Intelligence branch at NMAM Institute of Technology is INR 175,000 per annum for General category students and INR 200,000 per annum for NRI category students."
     },
     {
-      "Q": "What is the tuition fee for the Mechanical branch at NMAM Institute of Technology?",
-      "A": "The tuition fee for the Mechanical branch at NMAM Institute of Technology is INR 125,000 per annum for General category students and INR 150,000 per annum for NRI category students."
+      "question": "What is the tuition fee for the Mechanical branch at NMAM Institute of Technology?",
+      "answer": "The tuition fee for the Mechanical branch at NMAM Institute of Technology is INR 125,000 per annum for General category students and INR 150,000 per annum for NRI category students."
     },
     {
-      "Q": "What is the tuition fee per annum for the branch of Artificial Intelligence & Data Science for lateral entry?",
-      "A": "The tuition fee per annum for the branch of Artificial Intelligence & Data Science for lateral entry is INR 120,000."
+      "question": "What is the tuition fee per annum for the branch of Artificial Intelligence & Data Science for lateral entry?",
+      "answer": "The tuition fee per annum for the branch of Artificial Intelligence & Data Science for lateral entry is INR 120,000."
     },
     {
-      "Q": "How much is the tuition fee per annum for the branch of Biotechnology for lateral entry?",
-      "A": "The tuition fee per annum for the branch of Biotechnology for lateral entry is INR 100,000."
+      "question": "How much is the tuition fee per annum for the branch of Biotechnology for lateral entry?",
+      "answer": "The tuition fee per annum for the branch of Biotechnology for lateral entry is INR 100,000."
     },
     {
-      "Q": "What is the tuition fee per annum for the branch of Computer Science for lateral entry?",
-      "A": "The tuition fee per annum for the branch of Computer Science for lateral entry is INR 120,000."
+      "question": "What is the tuition fee per annum for the branch of Computer Science for lateral entry?",
+      "answer": "The tuition fee per annum for the branch of Computer Science for lateral entry is INR 120,000."
     },
     {
-      "Q": "How much is the tuition fee per annum for the branch of Mechanical Engineering for lateral entry?",
-      "A": "The tuition fee per annum for the branch of Mechanical Engineering for lateral entry is INR 100,000."
+      "question": "How much is the tuition fee per annum for the branch of Mechanical Engineering for lateral entry?",
+      "answer": "The tuition fee per annum for the branch of Mechanical Engineering for lateral entry is INR 100,000."
     },
     {
-      "Q": "What is the tuition fee per annum for the branch of Robotics & Artificial Intelligence for lateral entry?",
-      "A": "The tuition fee per annum for the branch of Robotics & Artificial Intelligence for lateral entry is INR 100,000."
+      "question": "What is the tuition fee per annum for the branch of Robotics & Artificial Intelligence for lateral entry?",
+      "answer": "The tuition fee per annum for the branch of Robotics & Artificial Intelligence for lateral entry is INR 100,000."
     },
     {
-      "Q": "What is the tuition fee per annum for the branch of Artificial Intelligence & Machine Learning for lateral entry?",
-      "A": "The tuition fee per annum for the branch of Artificial Intelligence & Machine Learning for lateral entry is INR 100,000."
+      "question": "What is the tuition fee per annum for the branch of Artificial Intelligence & Machine Learning for lateral entry?",
+      "answer": "The tuition fee per annum for the branch of Artificial Intelligence & Machine Learning for lateral entry is INR 100,000."
     },
     {
-      "Q": "What is the tuition fee per annum for the branch of Civil for lateral entry?",
-      "A": "The tuition fee per annum for the branch of Civil for lateral entry is INR 100,000."
+      "question": "What is the tuition fee per annum for the branch of Civil for lateral entry?",
+      "answer": "The tuition fee per annum for the branch of Civil for lateral entry is INR 100,000."
     },
     {
-      "Q": "What is the tuition fee per annum for the branch of Computer & Communication  for lateral entry?",
-      "A": "The tuition fee per annum for the branch of Computer & Communication  for lateral entry is INR 100,000."
+      "question": "What is the tuition fee per annum for the branch of Computer & Communication for lateral entry?",
+      "answer": "The tuition fee per annum for the branch of Computer & Communication for lateral entry is INR 100,000."
     },
     {
-      "Q": "What is the tuition fee per annum for the branch of Electrical & Electronics  for lateral entry?",
-      "A": "The tuition fee per annum for the branch of Electrical & Electronics  for lateral entry is INR 100,000."
+      "question": "What is the tuition fee per annum for the branch of Electrical & Electronics for lateral entry?",
+      "answer": "The tuition fee per annum for the branch of Electrical & Electronics for lateral entry is INR 100,000."
     },
     {
-      "Q": "What is the tuition fee per annum for the branch of Electronics & Communication  for lateral entry?",
-      "A": "The tuition fee per annum for the branch of Electronics & Communication  for lateral entry is INR 100,000."
+      "question": "What is the tuition fee per annum for the branch of Electronics & Communication for lateral entry?",
+      "answer": "The tuition fee per annum for the branch of Electronics & Communication for lateral entry is INR 100,000."
     },
     {
-      "Q": "What is the tuition fee per annum for the branch of Information Science for lateral entry?",
-      "A": "The tuition fee per annum for the branch of Information Science for lateral entry is INR 100,000."
+      "question": "What is the tuition fee per annum for the branch of Information Science for lateral entry?",
+      "answer": "The tuition fee per annum for the branch of Information Science for lateral entry is INR 100,000."
     },
     {
-      "Q": "Is there an additional exam fee for students at NMAM Institute of Technology?",
-      "A": "Yes, there is an additional exam fee of INR 10,000 per annum."
+      "question": "Is there an additional exam fee for students at NMAM Institute of Technology?",
+      "answer": "Yes, there is an additional exam fee of INR 10,000 per annum."
     },
     {
-      "Q": "What is the accreditation status of NMAM Institute of Technology?",
-      "A": "The institute is accredited with an 'A+' grade by NAAC."
+      "question": "What is the accreditation status of NMAM Institute of Technology?",
+      "answer": "The institute is accredited with an 'A+' grade by NAAC."
     }
-  ]
+ ]
 }
