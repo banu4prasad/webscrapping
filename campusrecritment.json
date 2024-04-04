@@ -25,6 +25,10 @@
       "A": "100% placement for Civil engineering students occurred in the year 2004-05."
     },
     {
+      "Q": "Is there any year where 100% placement occurred for Civil engineering students?",
+      "A": "100% placement for Civil engineering students occurred in the year 2004-05."
+    },
+    {
       "Q": "How many students were selected by companies on campus in 2009-10?",
       "A": "In 2009-10, 317 students were selected by companies on campus."
     },
@@ -110,7 +114,7 @@
     },
     {
       "Q": "How do some NMAMIT students utilize their time on campus?",
-      "A": "Some NMAMIT students become entrepreneurs during their time on campus."
+      "A": "They used to go to libraries and work on projects during their time on campus."
     }
   ]
 }
