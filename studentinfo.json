@@ -1,29 +1,28 @@
 {
-  "Q&A":
-  [
-  {
-      "Q": "give me the parent login website for Autonomous/VTU?",
-      "A": "the login website for parent login website for Autonomous/VTU is http://parent-login.nmamit.in"
+ "question and answer": [
+    {
+      "question": "give me the parent login website for Autonomous/VTU?",
+      "answer": "the login website for parent login website for Autonomous/VTU is http://parent-login.nmamit.in"
     },
     {
-      "Q": "give me the parent login website for B.Tech(Nitte University)?",
-      "A": "the login website for parent login website for B.Tech(Nitte University) is https://studentportal.universitysolutions.in"
+      "question": "give me the parent login website for B.Tech(Nitte University)?",
+      "answer": "the login website for parent login website for B.Tech(Nitte University) is https://studentportal.universitysolutions.in"
     },
     {
-      "Q": "what is the mobile app name in which a student tracks his academics?",
-      "A": "Uniclare, download link: https://studentportal.universitysolutions.in/UNICLARE.html"
+      "question": "what is the mobile app name in which a student tracks his academics?",
+      "answer": "Uniclare, download link: https://studentportal.universitysolutions.in/UNICLARE.html"
     },
     {
-      "Q": "where can I check my semester results?",
-      "A": "Sure, You can check it at http://nmamit.in/result/"
+      "question": "where can I check my semester results?",
+      "answer": "Sure, You can check it at http://nmamit.in/result/"
     },
     {
-      "Q": "what are the e-resources provided by VTU for the students?",
-      "A": "Facilities provided by VTU are VTU e-Shikshana Programme, E-Content, E-Resources for further details visit http://elearning.vtu.ac.in/esk3.php, http://nptel.vtu.ac.in/econtent, http://elearning.vtu.ac.in/e-Res.php"
+      "question": "what are the e-resources provided by VTU for the students?",
+      "answer": "Facilities provided by VTU are VTU e-Shikshana Programme, E-Content, E-Resources for further details visit http://elearning.vtu.ac.in/esk3.php, http://nptel.vtu.ac.in/econtent, http://elearning.vtu.ac.in/e-Res.php"
     },
     {
-      "Q": "what are the e-resources provided by NMAMIT for the students",
-      "A": "Moodle, CAEG Youtube channel(1st year subject) http://guru.nmamit.in, http://youtube.com/nmamit/mechanical"
+      "question": "what are the e-resources provided by NMAMIT for the students",
+      "answer": "Moodle, CAEG Youtube channel(1st year subject) http://guru.nmamit.in, http://youtube.com/nmamit/mechanical"
     }
-  ]
+ ]
 }
