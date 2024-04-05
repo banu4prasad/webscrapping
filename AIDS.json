@@ -1,0 +1,306 @@
+[
+  {
+    "question": "What is the duration of a Bachelor of Technology (BTech) program?",
+    "answer": "The duration of a BTech program is 4 years."
+  },
+  {
+    "question": "How many semesters are there in a BTech program?",
+    "answer": "A BTech program consists of 8 semesters."
+  },
+  {
+    "question": "What is the typical intake capacity for a BTech program?",
+    "answer": "The intake capacity for a BTech program is 60 students per batch."
+  },
+  {
+  "question": "what are the departmental activities of Aritificial and Data Science Department?",
+  "answer": "for departmental activities of the Aritificial and Data Science Department can be viewed at the following link https://nmamit.nitte.edu.in/department-AI&DS.php#Clubs-Chapters1"
+  },
+  {
+    "question": "what are the Association activities of Aritificial and Data Science Department?",
+    "answer": "for association activities of the Aritificial and Data Science Department can be viewed at the following link https://nmamit.nitte.edu.in/department-AI&DS.php#Clubs-Chapters1"
+    },
+        {
+          "question": "What is Bachelor of Technology in Artificial Intelligence and Data Science (AI & DS)?",
+          "answer": "Bachelor of Technology in Artificial Intelligence and Data Science (AI & DS) is an engineering program started in the academic year 2022–23 under Nitte Deemed to be University. It aims to create experts in the domain of data science by providing technical skills in data processing, analysis, and visualization for real-time applications across various domains. For more information please visit https://nmamit.nitte.edu.in/department-AI&DS.php#Overview"
+        },
+        {
+          "question": "What are the key objectives of the AI & DS program?",
+          "answer": "The key objectives of the AI & DS program include equipping students with the technical skills to perform data processing, analysis, and visualization; providing knowledge of methodologies, processes, techniques, and tools from computing and information science to extract knowledge from structured and unstructured data; and fostering the ability to design software systems for intelligent decision-making in business applications. For more information please visit https://nmamit.nitte.edu.in/department-AI&DS.php#Overview"
+        },
+        {
+          "question": "What are the core concepts covered in the AI & DS program?",
+          "answer": "The core concepts covered in the AI & DS program include applications of mathematical concepts for data handling, various methods for data handling and analysis, applications of data analysis in artificial intelligence domains, and the development of data-driven solutions and data visualization tools for analyzing big data. For more information please visit https://nmamit.nitte.edu.in/department-AI&DS.php#Overview"
+        },
+        {
+          "question": "How does the AI & DS program incorporate artificial intelligence concepts?",
+          "answer": "The AI & DS program incorporates artificial intelligence concepts by covering topics related to machine learning, deep learning model building, and the utilization of AI techniques for solving computational and real-world problems. These concepts are integrated into the curriculum to enable students to develop intelligent data-driven solutions. For more information please visit https://nmamit.nitte.edu.in/department-AI&DS.php#Overview"
+        },
+        {
+          "question": "What are the potential career pathways for graduates of the AI & DS program?",
+          "answer": "Graduates of the AI & DS program can pursue careers as data scientists, data analysts, machine learning engineers, AI specialists, data engineers, business intelligence analysts, and data visualization experts. They can work in various industries such as technology, finance, healthcare, e-commerce, and more, leveraging their expertise in data science and artificial intelligence. For more information please visit https://nmamit.nitte.edu.in/department-AI&DS.php#Overview"
+        },
+        {
+          "question": "How does the AI & DS program contribute to the field of data science?",
+          "answer": "The AI & DS program contributes to the field of data science by training students in advanced data processing techniques, data analysis methodologies, and AI-driven solutions. Graduates are equipped to handle big data challenges, develop predictive models, and extract actionable insights from complex datasets, thereby advancing the capabilities of data science in real-world applications. For more information please visit https://nmamit.nitte.edu.in/department-AI&DS.php#Overview"
+        },
+        {
+          "question": "How does the AI & DS program prepare students for real-world applications?",
+          "answer": "The AI & DS program prepares students for real-world applications by providing hands-on training in data processing tools, data analysis techniques, and AI model building. Projects and case studies from various domains are integrated into the curriculum to give students practical experience in solving industry-relevant problems. For more information please visit https://nmamit.nitte.edu.in/department-AI&DS.php#Overview"
+        },
+        {
+          "question": "What are some specific skills that students will gain from the AI & DS program?",
+          "answer": "Students will gain skills such as programming in languages like Python and R, data manipulation and cleansing, statistical analysis, machine learning algorithms, deep learning techniques, data visualization using tools like Tableau or Matplotlib, and the ability to deploy AI models in production environments. For more information please visit https://nmamit.nitte.edu.in/department-AI&DS.php#Overview"
+        },
+        {
+          "question": "How does the AI & DS program address the ethical considerations in data science and AI?",
+          "answer": "The AI & DS program includes modules on ethics and responsible AI, covering topics such as data privacy, bias in algorithms, transparency in AI systems, and ethical considerations in data collection and usage. Students are encouraged to consider the societal impacts of their data-driven solutions. For more information please visit https://nmamit.nitte.edu.in/department-AI&DS.php#Overview"
+        },
+        {
+          "question": "Can students in the AI & DS program participate in research activities?",
+          "answer": "Yes, students in the AI & DS program may have opportunities to participate in research activities through collaborations with faculty members or industry partners. These activities can involve exploring new AI algorithms, conducting experiments on real datasets, or contributing to ongoing research projects in data science. For more information please visit https://nmamit.nitte.edu.in/department-AI&DS.php#Overview"
+        },
+        {
+          "question": "Are there internship opportunities for AI & DS students during their studies?",
+          "answer": "Many AI & DS programs offer internship opportunities for students to gain practical experience in industry settings. These internships can be with companies specializing in data science, AI development, or related fields, providing valuable exposure and networking opportunities. For more information please visit https://nmamit.nitte.edu.in/department-AI&DS.php#Overview"
+        },
+        {
+          "question": "How does the AI & DS program stay updated with the latest trends in data science and AI?",
+          "answer": "The AI & DS program often collaborates with industry experts, invites guest speakers, organizes workshops and seminars, and updates its curriculum regularly to incorporate the latest trends in data science and AI. Faculty members may also engage in research and professional development to stay current. For more information please visit https://nmamit.nitte.edu.in/department-AI&DS.php#Overview"
+        },
+        {
+          "question": "What are some capstone or final-year projects students can expect in the AI & DS program?",
+          "answer": "In the final year of the AI & DS program, students may work on capstone projects that involve solving real-world problems using data science and AI techniques. Examples could include developing predictive models, creating data visualization dashboards, or implementing AI solutions for business optimization. For more information please visit https://nmamit.nitte.edu.in/department-AI&DS.php#Overview"
+        },
+        {
+          "question": "Can students pursue certifications alongside the AI & DS program to enhance their skills?",
+          "answer": "Yes, students can pursue certifications such as Certified Data Scientist, Machine Learning Engineer, or certifications from platforms like Coursera, edX, or Microsoft Azure. These certifications complement the skills learned in the AI & DS program and enhance students' employability. For more information please visit https://nmamit.nitte.edu.in/department-AI&DS.php#Overview"
+        },
+        {
+          "question": "How does the AI & DS program encourage interdisciplinary learning?",
+          "answer": "The AI & DS program encourages interdisciplinary learning by incorporating courses from related fields such as computer science, mathematics, statistics, and business management. Students gain a holistic understanding of data science and AI by exploring diverse perspectives and approaches. For more information please visit https://nmamit.nitte.edu.in/department-AI&DS.php#Overview"
+        },
+        {
+          "question": "What support does the AI & DS program provide for career placement and job readiness?",
+          "answer": "The AI & DS program often has career placement cells or services that offer resume building workshops, interview preparation sessions, networking opportunities with industry professionals, and job placement assistance. Alumni networks and industry partnerships also contribute to job readiness for graduates. For more information please visit https://nmamit.nitte.edu.in/department-AI&DS.php#Overview"
+        },
+            {
+              "question": "What is the vision statement of the Bachelor of Technology program in Artificial Intelligence and Data Science (AI & DS)?",
+              "answer": "The vision is to achieve excellence in engineering education by creating a dynamic learning environment, fostering collaboration and interdisciplinary research in AI & DS, and empowering graduates to become leaders in the global AI landscape. For more information please visit https://nmamit.nitte.edu.in/department-AI&DS.php#Overview"
+            },
+            {
+              "question": "What does the mission statement emphasize regarding the teaching-learning methodology in AI & DS education?",
+              "answer": "The mission emphasizes creating an ecosystem of academic excellence by incorporating the best teaching-learning methodology, collaborative research, and the use of modern IT infrastructure and tools to groom professionals with ethical values and problem-solving abilities in data analytics. For more information please visit https://nmamit.nitte.edu.in/department-AI&DS.php#Overview"
+            },
+            {
+              "question": "How does the program aim to contribute to the innovation of computing, AI systems, and data science?",
+              "answer": "The program aims to contribute to innovation by encouraging collaborative research, incorporating modern IT infrastructure and tools, and fostering an environment that supports the development of AI systems and data science techniques to enhance stakeholder satisfaction. For more information please visit https://nmamit.nitte.edu.in/department-AI&DS.php#Overview"
+            },
+            {
+              "question": "What role does ethical values play in the education of AI & DS professionals according to the mission statement?",
+              "answer": "Ethical values are an integral part of the mission statement, as it emphasizes grooming professionals with ethical values to ensure responsible and ethical use of AI and data science technologies in solving real-life problems. For more information please visit https://nmamit.nitte.edu.in/department-AI&DS.php#Overview"
+            },
+            {
+              "question": "How does the program prepare graduates for various career pathways according to the mission statement?",
+              "answer": "The program prepares graduates for employment in industry, research, higher education, community partnerships, and entrepreneurship by providing a comprehensive education that includes academic excellence, collaborative research, and practical experience using modern IT infrastructure and tools. For more information please visit https://nmamit.nitte.edu.in/department-AI&DS.php#Overview"
+            },
+            {
+              "question": "What are some key elements highlighted in the vision statement for achieving excellence in AI & DS education?",
+              "answer": "The vision statement highlights creating a dynamic learning environment, fostering collaboration and interdisciplinary research, and empowering graduates to become leaders in the global AI landscape as key elements for achieving excellence in AI & DS education. For more information please visit https://nmamit.nitte.edu.in/department-AI&DS.php#Overview"
+            },
+            {
+              "question": "How does the program aim to benefit society according to its mission statement?",
+              "answer": "The program aims to benefit society by preparing professionals who can solve real-life problems through data analytics, contribute to innovation in computing and AI systems, and engage in community partnerships and entrepreneurship to address societal challenges. For more information please visit https://nmamit.nitte.edu.in/department-AI&DS.php#Overview"
+            },
+            {
+              "question": "What strategies might the program employ to foster collaboration and interdisciplinary research in AI & DS?",
+              "answer": "The program might employ strategies such as organizing interdisciplinary workshops, promoting joint research projects with other departments or institutions, encouraging industry-academia collaborations, and providing resources for interdisciplinary learning and research. For more information please visit https://nmamit.nitte.edu.in/department-AI&DS.php#Overview"
+            },
+            {
+              "question": "How does the program intend to empower graduates to become leaders in the global AI landscape?",
+              "answer": "The program intends to empower graduates by providing them with a strong foundation in AI & DS education, practical skills in modern IT infrastructure and tools, opportunities for collaborative research, and ethical values that prepare them to take on leadership roles in the global AI landscape. For more information please visit https://nmamit.nitte.edu.in/department-AI&DS.php#Overview"
+            },
+            {
+              "question": "What role does the usage of modern IT infrastructure and tools play in achieving the program's mission?",
+              "answer": "The usage of modern IT infrastructure and tools is essential in achieving the program's mission by providing students with hands-on experience, facilitating collaborative research, enabling innovative solutions in AI & DS, and preparing graduates for the demands of industry, research, and entrepreneurship in the AI field. For more information please visit https://nmamit.nitte.edu.in/department-AI&DS.php#Overview"
+            },
+              {
+                "question": "What are the key aspects required for a successful professional career according to the provided statement?",
+                "answer": "The key aspects include building innovative solutions using Data Science knowledge, leveraging technology to solve real-world problems, developing ethical attitudes, effective communication, management, teamwork, and leadership skills. For more information please visit https://nmamit.nitte.edu.in/department-AI&DS.php#Overview"
+              },
+              {
+                "question": "How does the statement emphasize the importance of ethical attitudes in a professional career?",
+                "answer": "The statement emphasizes developing an ethical attitude to ensure responsible and moral decision-making while working on innovative solutions and tackling real-world problems using technology and Data Science. For more information please visit https://nmamit.nitte.edu.in/department-AI&DS.php#Overview"
+              },
+              {
+                "question": "What skills are highlighted as essential for professionals in the provided statement?",
+                "answer": "The statement highlights skills such as engineering, problem-solving, critical thinking, communication, management, teamwork, leadership, and adaptability to changing technologies as crucial for a successful professional career. For more information please visit https://nmamit.nitte.edu.in/department-AI&DS.php#Overview"
+              },
+              {
+                "question": "How does the statement suggest professionals can create social, economic, and sustainable impact?",
+                "answer": "The statement suggests that professionals can create social, economic, and sustainable impact by using their engineering, problem-solving, and critical thinking skills to address challenges, develop innovative solutions, and adapt to changing technologies in a manner that benefits society and organizations. For more information please visit https://nmamit.nitte.edu.in/department-AI&DS.php#Overview"
+              },
+              {
+                "question": "Why is it important for professionals to adapt to dynamically changing technologies according to the statement?",
+                "answer": "It's important for professionals to adapt to dynamically changing technologies to cater to organizational needs, stay relevant in the industry, and continue creating impactful solutions using Data Science and technology tools to address real-world problems effectively. For more information please visit https://nmamit.nitte.edu.in/department-AI&DS.php#Overview"
+              },
+              {
+                "question": "what is the syllabus of AI&DS department for the batch 2022-2026?",
+                "answer": "the syllabus of AI&DS department for the batch 2022-2026 is avaliable at the college website, For more details please visit https://nmamit.nitte.edu.in/syllabus/ndu/2022-26/B.Tech_AI&DS_Regulations_2022.pdf"
+              },
+              {
+                "question": "what is the syllabus of AI&DS department for the batch 2022-2026?",
+                "answer": "the syllabus of AI&DS department for the batch 2022-2026 is avaliable at the college website, For more details please visit https://nmamit.nitte.edu.in/syllabus/ndu/2022-26/B.Tech_AI&DS_Regulations_2022.pdf"
+              },
+                {
+                   "question": "What are Dr. Venugopala P S's educational qualifications?",
+                   "answer": "Dr. Venugopala P S has a B. E in Computer Science and Engineering from KVG College of Engineering, Sullia in 2002, M. Tech in Computer Science from NITK, Surathkal in 2007, and Ph.D from VTU, Belagavi in 2018."
+                },
+                {
+                   "question": "What is Dr. Venugopala P S's past experience?",
+                   "answer": "Dr. Venugopala P S has been working at NMAMIT since 2002."
+                },
+                {
+                   "question": "What are Dr. Venugopala P S's areas of interest?",
+                   "answer": "Dr. Venugopala P S's areas of interest include data science and data analytics, mobile application development, image and video processing, programming in Python, Java, C, and C++, machine learning, database systems, business intelligence, and the Internet of Things."
+                },
+                {
+                   "question": "What are Dr. Venugopala P S's departmental responsibilities?",
+                   "answer": "Dr. Venugopala P S is the Head of the Department and a team member of the project Vriddhi by Nitte University. They are also a member of the Internal Quality Assurance Cell at NMAMIT."
+                },
+                {
+                   "question": "What are Dr. Venugopala P S's professional memberships?",
+                   "answer": "Dr. Venugopala P S is a Senior member of IEEE, an Executive Committee member of IEEE Mangalore, and a member of ISTE."
+                },
+                {
+                   "question": "What subjects does Dr. Venugopala P S handle?",
+                   "answer": "Dr. Venugopala P S handles subjects including Python Programming, Android programming, RDBMS, Object Oriented Programming, IoT, Algorithms, and Image Processing."
+                },
+                {
+                   "question": "What are Dr. Venugopala P S's conference/journal publications?",
+                   "answer": "Dr. Venugopala P S's conference/journal publications can be found at https://scholar.google.com/citations?hl=en&user=7ituX_kAAAAJ and https://www.scopus.com/authid/detail.uri?authorId=56126960700."
+                },
+                {
+                   "question": "What are Dr. Ankitha K's educational qualifications?",
+                   "answer": "Dr. Ankitha K has a Ph.D. from Mangalore University in 2022, M. Tech. from Sahyadri College of Engineering and Management in 2014, and B. E. from Shree Devi Institute of Technology in 2010."
+                },
+                {
+                   "question": "What is Dr. Ankitha K's past experience?",
+                   "answer": "Dr. Ankitha K has worked as an Associate Professor & HoD in the department of Computer Science and Design at Canara Engineering College, Benjanapadavu from August 2022 to July 2023, and as an Associate Professor in the department of Computer Science and Engineering at Canara Engineering College, Benjanapadavu from April 2022 to July 2022. They also worked as an Assistant Professor in the department of Computer Science and Engineering at Sahyadri College of Engineering and Management, Adyar from January 2012 to March 2022, and as a Lecturer in the department of Information Science and Engineering at Alva’s Institute of Engineering and Technology, Moodbidri from June 2010 to December 2011."
+                },
+                {
+                   "question": "What are Dr. Ankitha K's areas of interest?",
+                   "answer": "Dr. Ankitha K's areas of interest include Artificial Intelligence and Data Science, Machine Learning, Internet of Animal Health Things (IoAHT)."
+                },
+                {
+                   "question": "What are Dr. Ankitha K's departmental responsibilities?",
+                   "answer": "Dr. Ankitha K serves as a Research coordinator and Internship coordinator."
+                },
+                {
+                   "question": "What are Dr. Ankitha K's professional memberships?",
+                   "answer": "Dr. Ankitha K is a Life Member of the Indian Society for Technical Education (ISTE)."
+                },
+                {
+                   "question": "What subjects does Dr. Ankitha K handle?",
+                   "answer": "Dr. Ankitha K handles subjects including Computer Networks, Advanced Computer Networks, Python, Data Structures and Applications, Unix and Shell Programming, Programming in JAVA, Internet of Things, Design and Analysis of Algorithms, C programming for Problem Solving, Cryptography, Network Security and Cyber Laws, Machine Learning, Formal Language and Automata Theory, Operating Systems, Object Oriented Modeling and Design, Big Data, Adhoc Networks, and Object Oriented Programming."
+                },
+                {
+                   "question": "What are Dr. Ankitha K's conference/journal publications?",
+                   "answer": "Dr. Ankitha K's conference/journal publications can be found at https://scholar.google.com/citations?hl=en&user=Q5MrOgUAAAAJ and https://www.scopus.com/authid/detail.uri?authorId=57219031569."
+                },
+                {
+                   "question": "What are Mr. Prajwal Hegde N's educational qualifications?",
+                   "answer": "Mr. Prajwal Hegde N is pursuing a Ph.D. in the topic Investigation of Digital Signature Algorithm for Tamper Resistant Data Transmission from Visvesvaraya Technological University (VTU), has an M.Tech in Digital Electronics and Communication from NMAM Institute of Technology, Visvesvaraya Technological University (VTU) in 2011, and a B.E. in Electronics and Communication Engineering from NMAM Institute of Technology, Visvesvaraya Technological University (VTU) in 2008."
+                },
+                {
+                   "question": "What is Mr. Prajwal Hegde N's past experience?",
+                   "answer": "Mr. Prajwal Hegde N has been an Assistant Professor Gd-II in NMAM Institute of Technology, Nitte, Karkala, from July 2019, an Assistant Professor Gd-I in NMAM Institute of Technology, Nitte, Karkala, from July 2014, and a Tech-Lead as Java Developer, UI Designer, and Database designer in ThoughtFocus Technologies, Bangalore from July 2011 to July 2014."
+                },
+                {
+                   "question": "What are Mr. Prajwal Hegde N's areas of interest?",
+                   "answer": "Mr. Prajwal Hegde N's areas of interest include Java, C, C++ programming, scripting languages like JavaScript, Python, PHP, Perl, Ruby, R, database systems, data science and Big data analytics, Internet of Things, cryptography and network security."
+                },
+                {
+                   "question": "What are Mr. Prajwal Hegde N's departmental responsibilities?",
+                   "answer": "Mr. Prajwal Hegde N serves as a UG Program Coordinator, Exam Coordinator, Timetable Coordinator, and Accreditation Coordinator."
+                },
+                {
+                   "question": "What are Mr. Prajwal Hegde N's professional memberships?",
+                   "answer": "Mr. Prajwal Hegde N is a Life Member of the Indian Society for Technical Education (ISTE)."
+                },
+                {
+                   "question": "What subjects does Mr. Prajwal Hegde N handle?",
+                   "answer": "Mr. Prajwal Hegde N handles subjects including Basic Electronics, Electronic Measurements and Transducer, Object Oriented Programming using C++, Object Oriented Programming using JAVA, Data Base Management System, Big Data Analytics, Computer Networks, Data Structures, Python Programming, Managing Big Data with MySQL, HTML, CSS, and JavaScript for Web Developers."
+                },
+                {
+                   "question": "What are Mr. Prajwal Hegde N's conference/journal publications?",
+                   "answer": "Mr. Prajwal Hegde N's conference/journal publications can be found at https://www.scopus.com/authid/detail.uri?authorId=57217280932 and https://scholar.google.com/citations?user=I8YetiUAAAAJ&hl=en."
+                },
+                {
+                   "question": "What is Mr. Prajwal Hegde N's additional information?",
+                   "answer": "Mr. Prajwal Hegde N has been involved in various activities including hosting a hostel squad visit team, organizing workshops on Structured Approach in Engineering Education for Quality Enhancement and Mission 10X Engineering faculty Workshop, and participating in an FDP on Instructional Design and Delivery."
+                },
+                {
+                   "question": "What are Ms. Ankitha Shetty's educational qualifications?",
+                   "answer": "Ms. Ankitha Shetty has a B. E from SDM Institute of Technology, Ujire, in 2013, and an M. Tech from Srinivas Institute of Technology, Mangalore, in 2015."
+                },
+                {
+                   "question": "What is Ms. Ankitha Shetty's past experience?",
+                   "answer": "Ms. Ankitha Shetty has worked as an Assistant Professor in the Department of Computer Science and Engineering at Alva’s Institute of Engineering and Technology, Moodbidri from 2015 to 2022, and as a Business Analyst at 7Edge Pvt Ltd, Mangalore."
+                },
+                {
+                   "question": "What are Ms. Ankitha Shetty's areas of interest?",
+                   "answer": "Ms. Ankitha Shetty's areas of interest include Database Management System, Computer Networks, Internet of Things, and Cloud Computing."
+                },
+                {
+                    "question": "What subjects does Ms. Ankitha Shetty handle?",
+                    "answer": "Ms. Ankitha Shetty handles subjects including Computer networks, Advanced computer networks, Operations research, Logic Design, Internet of Things, Unix and shell programming, Programming in JAVA, Software Engineering, C programming for Problem Solving, Cryptography, Network Security and Cyber Laws."
+                 },
+                {
+                "question": "What are Ms. Ankitha Shetty's project guides?",
+                "answer": "Ms. Ankitha Shetty has guided B.E. Projects: 08."
+                },
+                {
+                "question": "What are Mr. Muralli S Iyer's educational qualifications?",
+                "answer": "Mr. Muralli S Iyer has a BSc in Physics, Chemistry, Mathematics, Sanskrit from National College, Jayanagar, Bengaluru, 1978 – 1981, and Graduate Studies in Maths, Statistics & Computer Science from Marquette University, 1991 - 1994."
+                },
+                {
+                "question": "What is Mr. Muralli S Iyer's past experience?",
+                "answer": "Mr. Muralli S Iyer has worked at Samyog Software, Bangalore, India as Founder and CEO from 1994 to 2006, at US Web, Milwaukee, WI as VP of Technology, International Division from 1997 to 2001, at Wipfli, LLP, Madison/Chicago/India as Principal, Business Solutions and Partner-in-charge, Wipfli India, and has been a Visiting Lecturer in IT Strategy for 8 years."
+                },
+                {
+                "question": "What are Mr. Muralli S Iyer's professional memberships?",
+                "answer": "Mr. Muralli S Iyer is a NASSCOM India Featured speaker and panelist at Marquette University for graduate and undergraduate course, and has Certifications including Certified Project Manager and Arbinger Facilitator."
+                },
+                {
+                "question": "What are Mr. Muralli S Iyer's teaching assignments?",
+                "answer": "Mr. Muralli S Iyer's teaching assignments include the development of IT strategy in alignment with business strategy, corporate IT strategy for systems integration, enterprise IT architecture and systems design, IT implementation management, global business relationships, global sourcing strategies for back office processes, knowledge processes, engineering and design processes, manufacturing processes, IT portfolio management strategy, technology migration planning, technology products evaluation and selection."
+                },
+                {
+                    "question": "How many faculties are there in the Artificial Intelligence and Data Science branch?",
+                    "answer": "The number of faculties in the Artificial Intelligence and Data Science branch can vary depending on the institution. For example, at NMAMIT, there might be several faculties dedicated to this field, including Dr. Venugopala P S, Dr. Ankitha K, and potentially others not listed here."
+                 },
+                 {
+                    "question": "Who is the head of the Artificial Intelligence and Data Science branch?",
+                    "answer": "The head of the Artificial Intelligence and Data Science branch at NMAMIT, based on the information provided, is Dr. Venugopala P S, as indicated by their role as the Head of the Department."
+                 },
+                 {
+                  "question": "What is the email of Dr. VENUGOPALA P S?",
+                  "answer": "The email of Dr. VENUGOPALA P S is venugopalaps@nitte.edu.in"
+                },
+                {
+                  "question": "What is the email of Dr. ANKITHA K?",
+                  "answer": "The email of Dr. ANKITHA K is ankitha.praj@nitte.edu.in"
+                },
+                {
+                  "question": "What is the email of Mr. PRAJWAL HEGDE N?",
+                  "answer": "The email of Mr. PRAJWAL HEGDE N is prajwal.hegde@nitte.edu.in"
+                },
+                {
+                  "question": "What is the email of Ms. ANKITHA SHETTY?",
+                  "answer": "The email of Ms. ANKITHA SHETTY is anki.shetty@nitte.edu.in"
+                },
+                {
+                  "question": "What is the email of Mr. MURALI S IYER?",
+                  "answer": "The email of Mr. MURALI S IYER is muralis.iyer@nitte.edu.in"
+                }
+]
