@@ -1,4 +1,5 @@
-[
+{
+    "questions_and_answers":[
 {
  "question": "What extra-curricular activities does NMAM Institute of Technology offer for students?",
  "answer": "NMAM Institute of Technology offers student council, student clubs, and the annual techno-cultural fest called Incridea."
@@ -40,3 +41,4 @@
  "answer": "Participating in extra-curricular activities helps students develop leadership skills, build networks, and enhance their overall college experience."
 }
 ]
+}
