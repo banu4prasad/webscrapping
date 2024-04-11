@@ -1,163 +1,817 @@
 [
     {
-      "Question": "When was the Department of Electrical and Electronics Engineering established?",
-      "Answer": "1987. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "When was the Department of Electrical and Electronics Engineering established?",
+        "answer": "1987. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "What undergraduate program does the department offer, and what is its intake capacity?",
-      "Answer": "The department offers the BTech program in Electrical and Electronics Engineering with an intake of 120 students. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "What undergraduate program does the department offer, and what is its intake capacity?",
+        "answer": "The department offers the BTech program in Electrical and Electronics Engineering with an intake of 120 students. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "What postgraduate program does the department offer, and what is its intake capacity?",
-      "Answer": "The department offers the MTech program in Electric Vehicle Technology with an intake of 10 students. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "What postgraduate program does the department offer, and what is its intake capacity?",
+        "answer": "The department offers the MTech program in Electric Vehicle Technology with an intake of 10 students. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "What are some cutting-edge technologies that researchers in the department work on?",
-      "Answer": "Researchers work on technologies like converter design, GaN, SiC devices, and upcoming mobility systems like EV. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "What are some cutting-edge technologies that researchers in the department work on?",
+        "answer": "Researchers work on technologies like converter design, GaN, SiC devices, and upcoming mobility systems like EV. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "How does the department emphasize practical learning?",
-      "Answer": "The department encourages the development of working prototypes used on campus. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "How does the department emphasize practical learning?",
+        "answer": "The department encourages the development of working prototypes used on campus. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "What is the faculty strength of the department?",
-      "Answer": "The department has well-qualified and dedicated faculty members. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "What is the faculty strength of the department?",
+        "answer": "The department has well-qualified and dedicated faculty members. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "What opportunities does the department provide for networking?",
-      "Answer": "The department has a well-connected alumni network. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "What opportunities does the department provide for networking?",
+        "answer": "The department has a well-connected alumni network. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "What are the focus areas of the state-of-the-art laboratories in the department?",
-      "Answer": "The laboratories focus on Power Electronics, Control Systems, Power Systems, and High Voltage & Relay. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "What are the focus areas of the state-of-the-art laboratories in the department?",
+        "answer": "The laboratories focus on Power Electronics, Control Systems, Power Systems, and High Voltage & Relay. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "How does the department stay updated with current trends in the field?",
-      "Answer": "The department organizes seminars, conferences, workshops, STTPs (Short Term Training Programs), Summer Internships, and Faculty Development Programs. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "How does the department stay updated with current trends in the field?",
+        "answer": "The department organizes seminars, conferences, workshops, STTPs (Short Term Training Programs), Summer Internships, and Faculty Development Programs. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "What types of collaborations does the department have with industries?",
-      "Answer": "The department collaborates with industries for consultancy services and provides support to start-up companies in Power Electronics and motor drives. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "What types of collaborations does the department have with industries?",
+        "answer": "The department collaborates with industries for consultancy services and provides support to start-up companies in Power Electronics and motor drives. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "How does the department support research initiatives?",
-      "Answer": "The department provides opportunities for researchers to work on cutting-edge technologies and develop prototypes. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "How does the department support research initiatives?",
+        "answer": "The department provides opportunities for researchers to work on cutting-edge technologies and develop prototypes. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "What is the focus of the MTech program in Electric Vehicle Technology?",
-      "Answer": "The program focuses on advanced technologies related to electric vehicles. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "What is the focus of the MTech program in Electric Vehicle Technology?",
+        "answer": "The program focuses on advanced technologies related to electric vehicles. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "How does the department contribute to the field of power electronics?",
-      "Answer": "The department provides consultancy services to start-ups and collaborates with industries in Power Electronics and motor drives. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "How does the department contribute to the field of power electronics?",
+        "answer": "The department provides consultancy services to start-ups and collaborates with industries in Power Electronics and motor drives. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "What role do seminars and workshops play in the department's activities?",
-      "Answer": "Seminars and workshops help the department stay updated with current trends and technologies. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "What role do seminars and workshops play in the department's activities?",
+        "answer": "Seminars and workshops help the department stay updated with current trends and technologies. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "How does the department engage with students during summer internships?",
-      "Answer": "The department offers summer internships to provide hands-on experience and practical learning opportunities. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "How does the department engage with students during summer internships?",
+        "answer": "The department offers summer internships to provide hands-on experience and practical learning opportunities. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "What are some examples of working prototypes developed by the department?",
-      "Answer": "Examples could include prototypes related to power systems, control systems, or electric vehicle technology. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "What are some examples of working prototypes developed by the department?",
+        "answer": "Examples could include prototypes related to power systems, control systems, or electric vehicle technology. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "How does the department support faculty development?",
-      "Answer": "The department organizes Faculty Development Programs to enhance the skills and knowledge of faculty members. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "How does the department support faculty development?",
+        "answer": "The department organizes Faculty Development Programs to enhance the skills and knowledge of faculty members. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "How do collaborations with industries benefit students?",
-      "Answer": "Collaborations provide students with exposure to real-world projects, industry insights, and potential career opportunities. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "How do collaborations with industries benefit students?",
+        "answer": "Collaborations provide students with exposure to real-world projects, industry insights, and potential career opportunities. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "What is the significance of GaN and SiC devices in the department's research?",
-      "Answer": "GaN and SiC devices represent advanced semiconductor technologies used in converter design and power electronics. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "What is the significance of GaN and SiC devices in the department's research?",
+        "answer": "GaN and SiC devices represent advanced semiconductor technologies used in converter design and power electronics. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "What are the main themes covered in the department's seminars and conferences?",
-      "Answer": "Seminars and conferences cover topics such as new developments in power systems, control technologies, and electric vehicles. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "What are the main themes covered in the department's seminars and conferences?",
+        "answer": "Seminars and conferences cover topics such as new developments in power systems, control technologies, and electric vehicles. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "What is the vision of the Electrical & Electronics Engineering department?",
-      "Answer": "The vision is to pursue excellence in Electrical & Electronics Engineering, creating a research environment to promote innovation and address global challenges. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "What is the vision of the Electrical & Electronics Engineering department?",
+        "answer": "The vision is to pursue excellence in Electrical & Electronics Engineering, creating a research environment to promote innovation and address global challenges. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "What is the mission statement of the department?",
-      "Answer": "The mission of the department is to equip students to face global challenges, offer high-quality graduate and postgraduate programs, promote excellence in research and collaborative activities, and contribute to social development with ethical values. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "What is the mission statement of the department?",
+        "answer": "The mission of the department is to equip students to face global challenges, offer high-quality graduate and postgraduate programs, promote excellence in research and collaborative activities, and contribute to social development with ethical values. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "How does the department aim to promote innovation?",
-      "Answer": "By creating a research environment that encourages creativity, exploration of new ideas, and the development of innovative solutions. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "How does the department aim to promote innovation?",
+        "answer": "By creating a research environment that encourages creativity, exploration of new ideas, and the development of innovative solutions. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "What are some global challenges that the department aims to address through its research environment?",
-      "Answer": "Global challenges could include issues related to sustainable energy, advanced technologies, environmental protection, and societal well-being. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "What are some global challenges that the department aims to address through its research environment?",
+        "answer": "Global challenges could include issues related to sustainable energy, advanced technologies, environmental protection, and societal well-being. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "What role does excellence play in the department's vision and mission?",
-      "Answer": "Excellence is a core value that drives the department's pursuit of high-quality education, research, and societal contributions. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "What role does excellence play in the department's vision and mission?",
+        "answer": "Excellence is a core value that drives the department's pursuit of high-quality education, research, and societal contributions. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "How does the department prepare students for professional careers?",
-      "Answer": "By providing them with the necessary skills, knowledge, and ethical values to excel in their chosen fields. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "How does the department prepare students for professional careers?",
+        "answer": "By providing them with the necessary skills, knowledge, and ethical values to excel in their chosen fields. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "What types of graduate programs does the department offer?",
-      "Answer": "The department offers high-quality graduate and postgraduate programs in Electrical & Electronics Engineering. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "What types of graduate programs does the department offer?",
+        "answer": "The department offers high-quality graduate and postgraduate programs in Electrical & Electronics Engineering. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "How does the department ensure the quality of its programs?",
-      "Answer": "By maintaining rigorous academic standards, engaging experienced faculty members, and regularly updating curricula to align with industry trends. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "How does the department ensure the quality of its programs?",
+        "answer": "By maintaining rigorous academic standards, engaging experienced faculty members, and regularly updating curricula to align with industry trends. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "What are some examples of collaborative activities the department engages in?",
-      "Answer": "Collaborative activities may include research partnerships with other institutions, industry collaborations, and joint projects with government agencies. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "What are some examples of collaborative activities the department engages in?",
+        "answer": "Collaborative activities may include research partnerships with other institutions, industry collaborations, and joint projects with government agencies. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "How does the department contribute to social development?",
-      "Answer": "By conducting research that addresses societal needs, promoting ethical values among students, and engaging in community outreach programs. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "How does the department contribute to social development?",
+        "answer": "By conducting research that addresses societal needs, promoting ethical values among students, and engaging in community outreach programs. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "What values are emphasized in the department's approach to education?",
-      "Answer": "Values such as integrity, professionalism, teamwork, and a commitment to lifelong learning are emphasized. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "What values are emphasized in the department's approach to education?",
+        "answer": "Values such as integrity, professionalism, teamwork, and a commitment to lifelong learning are emphasized. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "What resources does the department provide to support research activities?",
-      "Answer": "The department provides access to state-of-the-art laboratories, research grants, academic journals, and collaboration opportunities. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "What resources does the department provide to support research activities?",
+        "answer": "The department provides access to state-of-the-art laboratories, research grants, academic journals, and collaboration opportunities. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "How does the department encourage students to pursue higher education?",
-      "Answer": "By offering mentorship, guidance on academic pathways, and opportunities for research and scholarly activities. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "How does the department encourage students to pursue higher education?",
+        "answer": "By offering mentorship, guidance on academic pathways, and opportunities for research and scholarly activities. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "What are the key areas of focus in the department's research initiatives?",
-      "Answer": "Key areas may include renewable energy, power systems, electronics, telecommunications, automation, and robotics, among others. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "What are the key areas of focus in the department's research initiatives?",
+        "answer": "Key areas may include renewable energy, power systems, electronics, telecommunications, automation, and robotics, among others. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "How does the department foster a culture of innovation among students and faculty?",
-      "Answer": "By promoting interdisciplinary collaboration, hosting innovation challenges, and recognizing and rewarding creative achievements. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "How does the department foster a culture of innovation among students and faculty?",
+        "answer": "By promoting interdisciplinary collaboration, hosting innovation challenges, and recognizing and rewarding creative achievements. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "What measures does the department take to ensure ethical values in research and professional conduct?",
-      "Answer": "By adhering to ethical guidelines, promoting responsible conduct of research, and encouraging ethical decision-making in academic and professional settings. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "What measures does the department take to ensure ethical values in research and professional conduct?",
+        "answer": "By adhering to ethical guidelines, promoting responsible conduct of research, and encouraging ethical decision-making in academic and professional settings. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "How does the department engage with industry partners?",
-      "Answer": "Through industry advisory boards, internships, guest lectures, joint projects, and technology transfer initiatives. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "How does the department engage with industry partners?",
+        "answer": "Through industry advisory boards, internships, guest lectures, joint projects, and technology transfer initiatives. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "What opportunities does the department provide for international collaboration?",
-      "Answer": "Through partnerships with international universities, participation in global conferences, exchange programs, and collaborative research projects. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "What opportunities does the department provide for international collaboration?",
+        "answer": "Through partnerships with international universities, participation in global conferences, exchange programs, and collaborative research projects. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "How does the department measure the impact of its research and educational programs?",
-      "Answer": "Through metrics such as publications, patents, student outcomes, alumni achievements, industry partnerships, and societal contributions. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+        "question": "How does the department measure the impact of its research and educational programs?",
+        "answer": "Through metrics such as publications, patents, student outcomes, alumni achievements, industry partnerships, and societal contributions. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
     },
     {
-      "Question": "What initiatives does the department take to stay updated with the latest advancements in Electrical & Electronics Engineering?",
-      "Answer": "By organizing seminars, workshops, conferences, continuing education programs, and inviting experts from academia and industry to share insights and knowledge. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
-    }
-  ]
-  
+        "question": "What initiatives does the department take to stay updated with the latest advancements in Electrical & Electronics Engineering?",
+        "answer": "By organizing seminars, workshops, conferences, continuing education programs, and inviting experts from academia and industry to share insights and knowledge. For more information, please visit https://nmamit.nitte.edu.in/department-electrical-electronics.php#Overview."
+    },
+    {
+        "question": "What are Mr. ANUP SHETTY's educational qualifications?",
+        "answer": "Mr. ANUP SHETTY holds a Bachelor's degree in Electrical & Electronics Engineering (B.E) and a Master's degree in Power Electronics (M.Tech)."
+      },
+      {
+        "question": "What is Mr. ANUP SHETTY's past experience?",
+        "answer": "Mr. ANUP SHETTY worked as a Research Assistant at NMAM Institute of Technology from October 2020. He also served as an Assistant Professor Gd-I from July 1, 2022."
+      },
+      {
+        "question": "What are Mr. ANUP SHETTY's areas of interest?",
+        "answer": "Mr. ANUP SHETTY's areas of interest include Power Electronics, Control Systems, and Embedded Systems."
+      },
+      {
+        "question": "What is Mr. ANUP SHETTY's departmental responsibility?",
+        "answer": "Mr. ANUP SHETTY serves as the Project Co-Coordinator."
+      },
+      {
+        "question": "What are Ms. NUTANA SHETTY's educational qualifications?",
+        "answer": "Ms. NUTANA SHETTY holds a Master's degree in Power Electronics from N.M.A.M. Institute of Technology, Nitte, obtained in 2017. She also has a Bachelor's degree in Electrical and Electronics Engineering from N.M.A.M. Institute of Technology, Nitte, obtained in 2015."
+      },
+      {
+        "question": "What is Ms. NUTANA SHETTY's past experience?",
+        "answer": "Ms. NUTANA SHETTY has worked as an Assistant Professor Gd-I in the department of Electrical and Electronics Engineering from 2020. She also served as an Assistant Professor Gd. I in the department of Electronics and Communication Engineering at NMAMIT Nitte from January 15, 2018. Prior to that, she worked in Engineering at MIT Kundapura from July 20, 2017, to January 12, 2018."
+      },
+      {
+        "question": "What are Ms. NUTANA SHETTY's areas of interest?",
+        "answer": "Ms. NUTANA SHETTY's area of interest is Power Electronics."
+      },
+      {
+        "question": "What are Ms. NUTANA SHETTY's departmental responsibilities?",
+        "answer": "Ms. NUTANA SHETTY serves as the E-attestation Co-Coordinator and MSE Coordinator."
+      },
+      {
+        "question": "What subjects has Ms. NUTANA SHETTY handled?",
+        "answer": "Ms. NUTANA SHETTY has handled subjects such as Signals and Systems and Digital System Design."
+      },
+      {
+        "question": "Which conferences/CME/workshops has Ms. NUTANA SHETTY attended?",
+        "answer": "Ms. NUTANA SHETTY has attended various workshops including those on Application of Lab VIEW to automation and robotics, Application of PSCAD, Embedded systems design and IoT design, Mathematica-A Math Tool for Teaching and Research, PLC based Programming and Automation, LATEX for Documentation, Conversion of Academic Project Ideas into Patent and Copyrights, Embedded systems for Communication applications, Design, analyses, and hardware Implementation of Switched Mode Power Converters, Discrete mathematics and computational solution of differential equations-applications, Embedded Systems & wireless Sensor Network for IoT, Introduction to Matlab and AI Workflows, and Design and Development of Automated System using PLC."
+      },
+      {
+        "question": "What are Ms. PALIMARU APARNA's educational qualifications?",
+        "answer": "Ms. PALIMARU APARNA holds a Master's degree in Microelectronics and Control Systems, obtained in 2017 from VTU. She also has a Bachelor's degree in Electrical and Electronics Engineering, obtained in 2015 from an autonomous institution under VTU."
+      },
+      {
+        "question": "What is Ms. PALIMARU APARNA's past experience?",
+        "answer": "Ms. PALIMARU APARNA worked as an Assistant Professor at NMIT, Bangalore, from October 6, 2017, to July 14, 2018. Subsequently, she served as an Assistant Professor Gd-I at N.M.A.M Institute of Technology from 2018."
+      },
+      {
+        "question": "What are Ms. PALIMARU APARNA's areas of interest?",
+        "answer": "Ms. PALIMARU APARNA's areas of interest include Pattern Recognition using Machine Learning and Control Systems."
+      },
+      {
+        "question": "What are Ms. PALIMARU APARNA's departmental responsibilities?",
+        "answer": "Ms. PALIMARU APARNA serves as the NBA Co-Coordinator, IQAC Coordinator, AICTE Activity/NSS Coordinator, Workshop data Coordinator, and MSE Co-coordinator."
+      },
+      {
+        "question": "What professional memberships does Ms. PALIMARU APARNA have?",
+        "answer": "Ms. PALIMARU APARNA holds a lifetime membership of ISTE (Indian Society for Technical Education)."
+      },
+      {
+        "question": "Which subjects has Ms. PALIMARU APARNA handled?",
+        "answer": "Ms. PALIMARU APARNA has handled subjects such as Basic Electrical Engineering, Renewable Energy Sources, and Non-Conventional Energy Systems."
+      },
+      {
+        "question": "Which conferences/CME/Workshops has Ms. PALIMARU APARNA attended?",
+        "answer": "Ms. PALIMARU APARNA, along with Praveen Mirajkar and RaghavendraPrabhu, presented a paper titled 'Detection and Classification of Ventricular Tachycardia Using SVM' at NCAEE 2017, held at N.M.A.M. Institute of Technology, Nitte, in April 2017."
+      },
+      {
+        "question": "What are Ms. SWATHI K's educational qualifications?",
+        "answer": "Ms. SWATHI K holds a Master's degree in Digital Electronics and Communication, obtained in 2013 from NMAMIT Nitte. She also has a Bachelor's degree in Instrumentation Technology, obtained from Dr. Ambedkar Institute of Technology, Bangalore."
+      },
+      {
+        "question": "What is Ms. SWATHI K's past experience?",
+        "answer": "Ms. SWATHI K has a substantial teaching experience. She served as a Lecturer in the E&E Department at Canara Engineering College, Mangaluru, from May 2008 to September 2013. From October 2013 to July 2022, she worked as an Assistant Professor in the E&E Department at the same institution. Later, from August 2022 to July 2023, she served as an Assistant Professor in the E&C Department at Canara Engineering College, Mangaluru. Since July 2023, she has been working as an Assistant Professor in the E&E Department at NMAMIT Nitte."
+      },
+      {
+        "question": "What are Ms. SWATHI K's areas of interest?",
+        "answer": "Ms. SWATHI K's areas of interest include Digital Electronics and Communication, Digital Signal Processing, Renewable Energy Sources, and Electrical and Electronics Measurements."
+      },
+      {
+        "question": "What professional memberships does Ms. SWATHI K have?",
+        "answer": "Ms. SWATHI K is a Life Member of ISTE (Indian Society for Technical Education)."
+      },
+      {
+        "question": "Which subjects has Ms. SWATHI K handled?",
+        "answer": "Ms. SWATHI K has handled subjects such as Digital Signal Processing, Linear IC's & Applications, Modern Control Theory, Electrical & Electronic Measurement & Instrumentation, Basic Electrical Engineering, Renewable Energy Sources, Sensors and Transducers, Signals and Systems, Micro and nano scale sensors and transducers, Operation and maintenance of Solar Electric Systems, and Introduction to Internet of Things."
+      },
+      {
+        "question": "What are Mr. ANAND BHAT B's educational qualifications?",
+        "answer": "Mr. ANAND BHAT B holds a Master of Technology degree in Industrial Drives and Applications, obtained in 2016 from Malnad College of Engineering, Hassan. He also has a Bachelor's degree in Electrical and Electronics Engineering, obtained from Canara Engineering College, Mangaluru, in 2014. Additionally, he is registered for a PhD program under Nitte Deemed to be University."
+      },
+      {
+        "question": "What is Mr. ANAND BHAT B's past experience?",
+        "answer": "Mr. ANAND BHAT B has held various positions in academia and industry. His past roles include Assistant Professor Gd-II at NMAM Institute of Technology, Department of EEE, since April 2023. He also served as Assistant Professor Gd-II and Gd-I at Canara Engineering College in the Departments of ECE and EEE from June 2022 to May 2022. Prior to that, he worked as an Assistant Professor Gd-I at CMR Institute of Technology, Department of EEE, from July 2016 to December 2017. He also had an internship at Unitek, Udupi, from January 2016 to April 2016."
+      },
+      {
+        "question": "What are Mr. ANAND BHAT B's areas of interest?",
+        "answer": "Mr. ANAND BHAT B's areas of interest include Power Electronics, Industrial Drives, Battery Management Systems, EV Technology, Thermoelectricity, and the Application of Machine Learning and AI techniques in Power Electronics and Drives."
+      },
+      {
+        "question": "What is a notable achievement of Mr. ANAND BHAT B?",
+        "answer": "Mr. ANAND BHAT B's project titled 'Low Cost Domestic Solar Desalination' won first place in AICTE Regional Convection and was the runner up for AICTE Chhathra Vishwakarma Award in February 2020."
+      },
+      {
+        "question": "Which subjects has Mr. ANAND BHAT B handled?",
+        "answer": "Mr. ANAND BHAT B has handled subjects such as Programmable Logic Controllers, High Voltage Engineering, Electric Motors, Electrical Design, Estimation and Costing, Electric Power Utilization, Power Electronics, Operation & Maintenance of Solar Electrical Systems, Management & Entrepreneurship, Microcontroller, Industrial Drives & Applications, Spacecraft Power Technologies, Non-Conventional Energy Systems, Power Electronics & Instrumentation, Basic Electronics, and Basic Electrical Engineering."
+      },
+      {
+        "question": "What is Ms. SWATHI HATWAR H's past experience?",
+        "answer": "Ms. SWATHI HATWAR H has worked as an Assistant Professor Gd-I in NMAM Institute of Technology from July 2014 to January 2020, and subsequently as an Assistant Professor Gd-II in NMAM Institute of Technology from January 2020."
+      },
+      {
+        "question": "What are Ms. SWATHI HATWAR H's areas of interest?",
+        "answer": "Ms. SWATHI HATWAR H's areas of interest include Power Electronics and Control Systems."
+      },
+      {
+        "question": "What are Ms. SWATHI HATWAR H's departmental responsibilities?",
+        "answer": "Ms. SWATHI HATWAR H's departmental responsibilities include MOOC Coordinator, Class Advisor, Timetable Coordinator, ELITES Coordinator, and Website Coordinator."
+      },
+      {
+        "question": "What professional memberships does Ms. SWATHI HATWAR H hold?",
+        "answer": "Ms. SWATHI HATWAR H is a member of the Indian Society of Systems for Science and Engineering (ISSE)."
+      },
+      {
+        "question": "Which subjects has Ms. SWATHI HATWAR H handled?",
+        "answer": "Ms. SWATHI HATWAR H has handled subjects such as Basic Electrical Engineering (UG), Power Semiconductor Devices (UG & PG), Programmable Logic Controllers (UG), Linear Control Systems (UG), High Speed VLSI Design (PG), and Microcontrollers (UG)."
+      },
+      {
+        "question": "What conferences/CME/workshops has Ms. SWATHI HATWAR H attended?",
+        "answer": "Ms. SWATHI HATWAR H has attended various workshops and faculty development programs, including sessions on NBA and NAAC Accreditation Process, Power System Engineering and Electric Vehicles, Hands-on Training on the use of Digital Board & Pedagogical Techniques, Role of LaTeX in Scientific Writing, and Electric Vehicle: Challenges In Charging & Their Impact On Power Grid."
+      },
+      {
+        "question": "What are Mr. MD ABDUL RAHEMAN's educational qualifications?",
+        "answer": "Mr. MD ABDUL RAHEMAN holds a Ph.D. (currently pursuing), M.E. in Power and Energy Systems from Bangalore University (2012), and B.E. in Electrical and Electronics Engineering from VTU, Belagavi (2009)."
+      },
+      {
+        "question": "What are Mr. MD ABDUL RAHEMAN's areas of interest?",
+        "answer": "Mr. MD ABDUL RAHEMAN's areas of interest include Application of Machine Learning techniques in Power Systems, Power Electronics and Structural analysis, Control System design, Mathematical Modeling of ECGs, and Application of Power Electronics to Power Systems."
+      },
+      {
+        "question": "What are Mr. MD ABDUL RAHEMAN's departmental responsibilities?",
+        "answer": "Mr. MD ABDUL RAHEMAN serves as the NBA Coordinator."
+      },
+      {
+        "question": "What professional memberships does Mr. MD ABDUL RAHEMAN hold?",
+        "answer": "Mr. MD ABDUL RAHEMAN is a member of the Society of Automobile Engineers."
+      },
+      {
+        "question": "Which subjects has Mr. MD ABDUL RAHEMAN handled?",
+        "answer": "Mr. MD ABDUL RAHEMAN has handled subjects such as Power System Analysis and Stability, Electrical Machine Design and CAD, Fundamentals of Python Programming, Generation, Transmission and Distribution, Transformers and Induction Machines, Basic Electrical Engineering, Power System Operation and Control, FACTS, Application of Power Electronics to Power Systems, and Electric Drives."
+      },
+      {
+        "question": "Who are the project guides for Mr. MD ABDUL RAHEMAN?",
+        "answer": "There is no information available about the project guides for Mr. MD ABDUL RAHEMAN."
+      },
+      {
+        "question": "What are Mr. GURURAJ K's educational qualifications?",
+        "answer": "Mr. GURURAJ K holds an M. Tech in Energy Management, Auditing and Lighting from MIT Manipal (2011) and a B.E. in Electrical and Electronics from MIT, Manipal (2004)."
+      },
+      {
+        "question": "What is Mr. GURURAJ K's past experience?",
+        "answer": "Mr. GURURAJ K served as a Lecturer in MIT Manipal and MIT Kundapur from 2008 to 2012. He also worked in the industry at ASAP Automation, ESIL, and CLI3 from 2005 to 2007."
+      },
+      {
+        "question": "What are Mr. GURURAJ K's areas of interest?",
+        "answer": "Mr. GURURAJ K's areas of interest include Lighting, Solid State Lighting & Controls, Control Systems, Electronics & Networks, and Power Generation, Transmission & Distribution."
+      },
+      {
+        "question": "What are Mr. GURURAJ K's departmental responsibilities?",
+        "answer": "Mr. GURURAJ K's departmental responsibilities include ISTE Coordinator, Faculty in charge of Criteria iv for NAAC & Criteria vi & vii for NBA, Faculty Advisor, Department Library Coordinator, and Project Guide."
+      },
+      {
+        "question": "What professional memberships does Mr. GURURAJ K hold?",
+        "answer": "Mr. GURURAJ K is a member of the Institution of Engineers, India."
+      },
+      {
+        "question": "Which subjects has Mr. GURURAJ K handled?",
+        "answer": "Mr. GURURAJ K has handled subjects such as Electro Magnetic Fields, Power System Analysis & Stability, Transmission & Distribution, Renewable Energy Sources, Instrumentation and Measurements, Electric Power Generation, Linear Control Systems, Basic Electrical Engineering, Electrical Power Utilization, and Non-Conventional Energy Systems."
+      },
+      {
+        "question": "What are Mr. RAVIKIRAN RAO M's educational qualifications?",
+        "answer": "Mr. RAVIKIRAN RAO M holds an M. Tech in Power and Energy Systems from NITK, Surathkal (2011) and a B.E. in Electrical and Electronics from VTU (2009)."
+      },
+      {
+        "question": "What is Mr. RAVIKIRAN RAO M's past experience?",
+        "answer": "Mr. RAVIKIRAN RAO M worked as an Assistant Professor at Acharya Institute of Technology from 2013 to 2014. Prior to that, he worked in the industry at Feedback Infra Pvt. Ltd. from 2011 to 2013."
+      },
+      {
+        "question": "What are Mr. RAVIKIRAN RAO M's areas of interest?",
+        "answer": "Mr. RAVIKIRAN RAO M's areas of interest include Power Electronics and Embedded Systems."
+      },
+      {
+        "question": "What departmental responsibilities does Mr. RAVIKIRAN RAO M have?",
+        "answer": "Mr. RAVIKIRAN RAO M's departmental responsibilities include being the ISO coordinator and Time table coordinator."
+      },
+      {
+        "question": "What professional memberships does Mr. RAVIKIRAN RAO M hold?",
+        "answer": "Mr. RAVIKIRAN RAO M is a member of the Indian Society of Systems for Science and Engineering (ISSE)."
+      },
+      {
+        "question": "Which subjects has Mr. RAVIKIRAN RAO M handled?",
+        "answer": "Mr. RAVIKIRAN RAO M has handled subjects such as Analog Electronic Circuits, Logic Design, Microcontroller, Linear Integrated Circuits, DC and Synchronous Machines, HVDC Power Transmission, and Basic Electrical Engineering."
+      },
+      {
+        "question": "How many projects has Mr. RAVIKIRAN RAO M guided?",
+        "answer": "Mr. RAVIKIRAN RAO M has guided 2 M.Tech projects and 7 B.E. projects."
+      },
+      {
+        "question": "What are Ms. RAKSHA ADAPPA's educational qualifications?",
+        "answer": "Ms. RAKSHA ADAPPA holds a B.E. in Electrical & Electronics from VTU (2007) and an M. Tech in Digital Electronics and Advanced Communication from Manipal University (2010)."
+      },
+      {
+        "question": "What are Ms. RAKSHA ADAPPA's areas of interest?",
+        "answer": "Ms. RAKSHA ADAPPA's areas of interest include Power Electronics."
+      },
+      {
+        "question": "What departmental responsibilities does Ms. RAKSHA ADAPPA have?",
+        "answer": "Ms. RAKSHA ADAPPA's departmental responsibilities include being the UG Co-coordinator, Student Monitoring and Discipline, and MOOC/NPTEL/Coursera coordinator."
+      },
+      {
+        "question": "What professional memberships does Ms. RAKSHA ADAPPA hold?",
+        "answer": "Ms. RAKSHA ADAPPA is a member of the Indian Society of Systems for Science and Engineering (ISSE)."
+      },
+      {
+        "question": "Which subjects has Ms. RAKSHA ADAPPA handled?",
+        "answer": "Ms. RAKSHA ADAPPA has handled subjects such as Basic Electrical Engineering, Electrical Measurements, Operations Research, Industrial Management and Electrical Estimation, Electrical Machine Design, Electrical Power Utilization, Transformers and Induction Machines, Power Electronics, Transmission and Distribution, Fuzzy Logic (UG & PG), Artificial Neural Network, Human Resource Management, and Soft Computing (PG)."
+      },
+      {
+        "question": "What are Mr. MAHABALESHWARA SHARMA K's educational qualifications?",
+        "answer": "Mr. MAHABALESHWARA SHARMA K holds an M. Tech in Instrumentation and Control Systems from the University of Calicut (1997) and a B.E. in Electrical and Electronics Engineering from Mysore University (1992)."
+      },
+      {
+        "question": "What is Mr. MAHABALESHWARA SHARMA K's past experience?",
+        "answer": "Mr. MAHABALESHWARA SHARMA K worked at Wipro Technologies as a Technical Manager from 1999 to 2009."
+      },
+      {
+        "question": "What are Mr. MAHABALESHWARA SHARMA K's areas of interest?",
+        "answer": "Mr. MAHABALESHWARA SHARMA K's areas of interest include Signals and Systems and Digital Signal Processing."
+      },
+      {
+        "question": "What departmental responsibilities does Mr. MAHABALESHWARA SHARMA K have?",
+        "answer": "Mr. MAHABALESHWARA SHARMA K serves as the Nitte News Co-ordinator and ReferenceGlobe Co-ordinator of the Department of E&E Engineering."
+      },
+      {
+        "question": "Which subjects has Mr. MAHABALESHWARA SHARMA K handled?",
+        "answer": "Mr. MAHABALESHWARA SHARMA K has handled subjects such as Digital Signal Processing, Microcontrollers, and Basic Electrical Engineering."
+      },
+      {
+        "question": "What are Dr. N S S RAMAKRISHNA's educational qualifications?",
+        "answer": "Dr. N S S RAMAKRISHNA holds a Doctor of Philosophy (Ph.D.) in Electrical Department from VIT Vellore (2022), a Master of Technology in Power And Energy Systems from the National Institute of Technology, Karnataka (2012-2014), and a Bachelor of Technology in Electrical and Electronics Engineering from JNTU, Kakinada (2008–2012)."
+      },
+      {
+        "question": "What is Dr. N S S RAMAKRISHNA's past experience?",
+        "answer": "Dr. N S S RAMAKRISHNA worked as an Assistant Professor Grade-III in NMAM Institute of Technology, NITTE, from October 2023, as an Assistant Professor (Senior Grade) in GMR Institute of Technology Rajam, Andhra Pradesh from June 2016 to September 2023, as an Assistant Professor in Madanapalle Institute of Technology and Science, Chittoor District from April 2015 to May 2016, and as a Technical Team Member in RECS Visakhapatnam from August 2014 to March 2015."
+      },
+      {
+        "question": "What are Dr. N S S RAMAKRISHNA's areas of interest?",
+        "answer": "Dr. N S S RAMAKRISHNA's areas of interest include Power system Grid Sustainability Optimization, Techno Economic solutions, and Electric Vehicles."
+      },
+      {
+        "question": "What achievements has Dr. N S S RAMAKRISHNA earned?",
+        "answer": "Dr. N S S RAMAKRISHNA secured an ALL-INDIA Rank of 987 in GATE 2012, was recommended for SSC in SSB Agartala Coimbatore, and received the best faculty award for the year 2019 and 2020 from GMR Varalakshmi foundation. Additionally, Dr. N S S RAMAKRISHNA serves as a reviewer for various SCI indexed journals."
+      },
+      {
+        "question": "Which subjects has Dr. N S S RAMAKRISHNA handled?",
+        "answer": "Dr. N S S RAMAKRISHNA has handled subjects such as Power System Protection, Fundamentals of Electric Vehicle, Renewable Energy sources, Electrical machines, Electrical Distribution system, Basic Electrical Engineering, and Sustainable Energy."
+      },
+      {
+        "question": "How many B.Tech Major Projects and B.Tech Mini Projects hardware prototype models has Dr. N S S RAMAKRISHNA guided?",
+        "answer": "Dr. N S S RAMAKRISHNA has guided 7 B.Tech Major Projects and 9 B.Tech Mini Projects hardware prototype models."
+      },
+      {
+        "answer": "Mr. DHANANJAYA B holds a Ph.D. (Pursuing), an M.Tech in Microelectronics and Control System from VTU Belagavi (2010), and a B.E. in Electrical and Electronics Engineering from VTU, Belagavi (2006)."
+      },
+      {
+        "question": "What is Mr. DHANANJAYA B's past experience?",
+        "answer": "Mr. DHANANJAYA B worked as a Lecturer in KVGCE Sullia from 2006 to 2007, as a Lecturer in Canara Engineering College Bantwal from 2007 to 2008, as an Assistant Professor Gd-I in Alva’s Institute of Engineering & Technology Moodbidri from 2008 to 2015, and as an Assistant Professor Gd-II in Canara Engineering College Bantwal from 2015 to 2022."
+      },
+      {
+        "question": "What are Mr. DHANANJAYA B's areas of interest?",
+        "answer": "Mr. DHANANJAYA B's areas of interest include Power Electronics and Electric Vehicles."
+      },
+      {
+        "question": "What departmental responsibilities does Mr. DHANANJAYA B have?",
+        "answer": "Mr. DHANANJAYA B is a member of the Sports Committee."
+      },
+      {
+        "question": "What professional memberships does Mr. DHANANJAYA B hold?",
+        "answer": "Mr. DHANANJAYA B holds a lifetime membership of ISTE (Indian Society for Technical Education)."
+      },
+      {
+        "question": "Which subjects has Mr. DHANANJAYA B handled?",
+        "answer": "Mr. DHANANJAYA B has handled subjects such as VLSI Design, Industrial Drives, High Voltage Engineering, Control Systems, High Voltage DC Transmission, High speed VLSI, Embedded system, Linear and nonlinear systems, Power electronics, Micro-Electronic Circuits, Linear IC's and Op-amps, Analog Electronic Circuits, Basic Electrical/Electronic Engineering, Analog & Digital Electronics, and Micro-controller & Embedded Systems."
+      },
+      {
+        "question": "What are Dr. KRISHNA RAO's educational qualifications?",
+        "answer": "Dr. KRISHNA RAO holds a B.E., M.Tech., and Ph.D. from NITK."
+      },
+      {
+        "question": "What is Dr. KRISHNA RAO's past experience?",
+        "answer": "Dr. KRISHNA RAO served as Deputy Manager (Electrical Maintenance) at KIOCL, Mangalore from 1996 to 2008. He then worked as a Senior Lecturer at Canara Engineering College, Benjanapadavu, Mangalore from 2008 to 2011, and later as an Assistant Professor at the same institution from 2013 to 2015."
+      },
+      {
+        "question": "What are Dr. KRISHNA RAO's areas of interest?",
+        "answer": "Dr. KRISHNA RAO's areas of interest include Power system identification, Power system dynamics, Signal processing applications to power systems, and Linear algebra."
+      },
+      {
+        "question": "What departmental responsibilities does Dr. KRISHNA RAO have?",
+        "answer": "Dr. KRISHNA RAO serves as the Department Moodle Coordinator."
+      },
+      {
+        "question": "What professional memberships does Dr. KRISHNA RAO hold?",
+        "answer": "Dr. KRISHNA RAO is a Student Member of IEEE."
+      },
+      {
+        "question": "Which subjects has Dr. KRISHNA RAO handled?",
+        "answer": "Dr. KRISHNA RAO has handled subjects such as Transmission and Distribution, Switchgear and Protection, Power System Operation and Control, Power System Analysis, and Transformers and Induction Machines."
+      },
+      {
+        "question": "What conferences/CME/workshops has Dr. KRISHNA RAO participated in?",
+        "answer": "Dr. KRISHNA RAO participated in workshops such as \"Emerging Trends in Distribution Systems\" at NITK in October 2008, \"Application of MATLAB in Engineering Research\" at Canara Engineering College, Benjanapadavu, Mangalore in July 2013, and \"Modelling of VSC-based FACTS and HVDC Controllers\" at NMAMIT, Nitte in July 2014."
+      },
+      {
+        "question": "What are Dr. DINESH SHETTY's educational qualifications?",
+        "answer": "Dr. DINESH SHETTY holds a Ph.D. and an M.Tech in Microelectronics and control system from VTU Belagavi in 2010. He also has a B.E. in Electrical and Electronics Engineering from VTU, Belagavi in 2005."
+      },
+      {
+        "question": "What is Dr. DINESH SHETTY's past experience?",
+        "answer": "Dr. DINESH SHETTY worked as a Lecturer in AITM Bhatkal from 2005 to 2007, then as a Lecturer in SJEC Vamanjoor from 2007 to 2008, and again as a Lecturer in AITM Bhatkal from 2008 to 2014."
+      },
+      {
+        "question": "What are Dr. DINESH SHETTY's areas of interest?",
+        "answer": "Dr. DINESH SHETTY's areas of interest include Power system and Control system."
+      },
+      {
+        "question": "What departmental responsibilities does Dr. DINESH SHETTY have?",
+        "answer": "Dr. DINESH SHETTY serves as a BOS member, DUGC member, Training & Placement coordinator, and NIRF coordinator."
+      },
+      {
+        "question": "What professional memberships does Dr. DINESH SHETTY hold?",
+        "answer": "Dr. DINESH SHETTY holds lifetime memberships of ISTE and the Indian Society of Systems for Science and Engineering (ISSE)."
+      },
+      {
+        "question": "Which subjects has Dr. DINESH SHETTY handled?",
+        "answer": "Dr. DINESH SHETTY has handled subjects such as Power System Analysis and Stability, Signals and Systems, Digital Signal Processing, Transmission and Distribution, Logic Design, Fuzzy Logic Control, Basic Electrical Engineering, and Smart Electric Grid."
+      },
+      {
+        "question": "What conferences/CME/workshops has Dr. DINESH SHETTY participated in?",
+        "answer": "Dr. DINESH SHETTY has participated in various workshops and programs, including those on Advanced Optimization Techniques, Universal Human Values in Technical Education, Digital Signal Processing, Next Generation Power Grids, ICT Solutions for Issues and Challenges in Smart Grid Technology, Instructional Design and Delivery, and Signals and Systems."
+      },
+      {
+        "question": "How many projects has Dr. DINESH SHETTY guided?",
+        "answer": "Dr. DINESH SHETTY has guided 4 M.Tech projects and 9 B.E. projects."
+      },
+      {
+        "question": "What are Mr. NAVEEN J's educational qualifications?",
+        "answer": "Mr. NAVEEN J holds an M.Tech in Computer Applications in Industrial Drives from VTU Belagavi and a B.E. in Electrical and Electronics Engineering from Kuvempu University."
+      },
+      {
+        "question": "What are Mr. NAVEEN J's areas of interest?",
+        "answer": "Mr. NAVEEN J's areas of interest include Electrical Drives, Power Electronics, Renewable energy, and Power system."
+      },
+      {
+        "question": "What departmental responsibilities does Mr. NAVEEN J have?",
+        "answer": "Mr. NAVEEN J serves as a Sports Coordinator, EDC Coordinator, ICETE coordinator, and Mission Prerana coordinator."
+      },
+      {
+        "question": "What professional memberships does Mr. NAVEEN J hold?",
+        "answer": "Mr. NAVEEN J has publications in International Journals and has participated in various conferences and workshops."
+      },
+      {
+        "question": "Which subjects has Mr. NAVEEN J handled?",
+        "answer": "Mr. NAVEEN J has handled subjects such as Power system Operation and control, Computer control of Industrial Drives, Digital Signals Processing, Renewable energy sources, Nonconventional energy systems, Basic Electrical engineering, Power Electronics, and Industrial drives."
+      },
+      {
+        "question": "How many projects has Mr. NAVEEN J guided?",
+        "answer": "Mr. NAVEEN J has guided 4 B.E. projects and 4 M.Tech projects."
+      },
+      {
+        "question": "What additional information is available about Mr. NAVEEN J?",
+        "answer": "Mr. NAVEEN J has attended various workshops, faculty development programs, and conferences related to his field."
+      },
+      {
+        "question": "What are Dr. GIRISHA JOSHI's educational qualifications?",
+        "answer": "Dr. GIRISHA JOSHI holds a Ph.D and an M.Tech in Power Electronics from VTU Belagavi, completed in 2012. Additionally, Dr. JOSHI has a B.E. in Electrical & Electronics Engineering from VTU completed in 2007."
+      },
+      {
+        "question": "What is Dr. GIRISHA JOSHI's past experience?",
+        "answer": "Dr. GIRISHA JOSHI served as an Assistant Professor in SJEC, Mangalore, from 2008 to 2016. Prior to that, Dr. JOSHI worked as a Site Engineer in ABB Ltd. from 2007 to 2008."
+      },
+      {
+        "question": "What are Dr. GIRISHA JOSHI's areas of interest?",
+        "answer": "Dr. GIRISHA JOSHI's areas of interest include Power Electronics, Artificial Neural Network, Fuzzy Logic, and LabVIEW."
+      },
+      {
+        "question": "What departmental responsibilities does Dr. GIRISHA JOSHI have?",
+        "answer": "Dr. GIRISHA JOSHI serves as a Class Advisor, BOS member for PG, and Sports Coordinator."
+      },
+      {
+        "question": "Which subjects has Dr. GIRISHA JOSHI handled?",
+        "answer": "Dr. GIRISHA JOSHI has handled subjects such as Power Electronics, Basic Electrical Engineering, Instrumentation and Measurements, Soft Computing, Modeling and Simulation of Power Electronic Systems, AC-DC drives, Electrical machine Design, DC and Synchronous Machines, Transformers and Induction Motors, Electrical Design Estimation and Costing, Electrical Power Utilization, Field Theory, Industrial Drives and Applications, Analog Electronic Circuits, Advanced Topics in Power Electronic Systems, and Power Electronics in Smart Grid, among others."
+      },
+      {
+        "question": "How many projects has Dr. GIRISHA JOSHI guided?",
+        "answer": "Dr. GIRISHA JOSHI has guided 8 B.E. projects and 4 M.Tech projects."
+      },
+      {
+        "question": "What is Dr. K. Latha Shenoy's highest educational qualification?",
+        "answer": "Ph.D M.Tech DEAC - MIT, Manipal - 2007, B.E - E&E NMAMIT, Nitte 1996"
+      },
+      {
+        "question": "What was Dr. K. Latha Shenoy's past experience?",
+        "answer": "Canara Engineering College, Mangalore from 2004 to 2005, NMAM Institute of Technology, Nitte from 2005 till date"
+      },
+      {
+        "question": "What are Dr. K. Latha Shenoy's areas of interest?",
+        "answer": "Renewable Energy, Power Electronics, Control System"
+      },
+      {
+        "question": "What are Dr. K. Latha Shenoy's departmental responsibilities?",
+        "answer": "R & D, Product Cell development, Alumni Coordinator, NitteNews Bulletin Board of Examiners (BOE), MSE Co-ordinator, Board of Study (BOS) Member, DUGC Student Mentor, First Year BEE Co-ordinator, Industrial Tour Co-ordinator, Mini project Co-ordinator, Seminar Co-ordinator"
+      },
+      {
+        "question": "What professional memberships does Dr. K. Latha Shenoy have?",
+        "answer": "ISTE, SMIEEE"
+      },
+      {
+        "question": "What subjects does Dr. K. Latha Shenoy handle?",
+        "answer": "Basic Electrical Engineering, Network Analysis, Logic Design, Electrical Measurement, Control System, FACTS, VLSI Design, PWM Converter & Applications, Microprocessor 8085, Switched Mode Power Supply (SMPS), Solar Plant Design Operation & Maintenance (SPDOM), Digital System Design using VHDL, Power Electronics (PE)"
+      },
+      {
+        "question": "How many B.E. and M.Tech projects has Dr. K. Latha Shenoy guided?",
+        "answer": "B.E. Projects: 10, M.Tech Projects: 07"
+      },
+      {
+        "question": "Tell me more about Dr. K. Latha Shenoy.",
+        "answer": "Dr. K. Latha Shenoy is a dedicated academic and researcher with a strong background in Electrical and Electronics Engineering, with a focus on Renewable Energy and Power Electronics. She holds a Ph.D. and M.Tech from MIT, Manipal, and a B.E. from NMAMIT, Nitte. Dr. Shenoy has served at Canara Engineering College, Mangalore, and currently at NMAM Institute of Technology, Nitte. She has been involved in various departmental responsibilities, including R&D, product cell development, and serving as a coordinator for several initiatives. Her areas of interest include Renewable Energy, Power Electronics, and Control Systems. Dr. Shenoy has guided numerous B.E. and M.Tech projects and has been involved in numerous conferences, workshops, and faculty development programs, showcasing her expertise and dedication to advancing knowledge in her areas of interest."
+      },
+      {
+        "question": "What is Dr. Anitha Marina Colaco's highest educational qualification?",
+        "answer": "Ph.D - Solid State Lighting Controls For Healthcare - MAHE University, M.Tech - Microelectronics And Control Systems - VTU - 2005, B.E - Electrical And Electronics - VTU - 2003"
+      },
+      {
+        "question": "What are Dr. Anitha Marina Colaco's areas of interest?",
+        "answer": "Solid state lighting controls, Design of LED luminaire, Thermal analysis of the LED luminaire, LED application for healthcare"
+      },
+      {
+        "question": "What achievement did Dr. Anitha Marina Colaco secure?",
+        "answer": "Received Fund 93000/- from AICTE ATAL Academy for a 5 days online FDP on 'Gender Equity challenges and opportunities for Women in decision Making'"
+      },
+      {
+        "question": "What are Dr. Anitha Marina Colaco's departmental responsibilities?",
+        "answer": "Student performance coordinator 2013-2014, Placement coordinator 2011-12, Member of grievance cell 2010-2011, Member of BOS 2010-2011, Member- time table year 2009-2010, sessional Coordinator 2009, Electrical & Electronics Dept, Question paper setter for PG course, Microelectronics & Control System, VTU university, Question paper setter for Kannur University 2021, NAAC V criteria department coordinator 2022, NAAC VII criteria department coordinator, AAA coordinator"
+      },
+      {
+        "question": "What professional memberships does Dr. Anitha Marina Colaco have?",
+        "answer": "SPIE, Life Member of Optical Society of India"
+      },
+      {
+        "question": "What subjects does Dr. Anitha Marina Colaco handle?",
+        "answer": "Analog electronic circuits, Electrical power generation, Transmission and distribution, Control systems, Network analysis, Hardware description language, VLSI design, High speed VLSI design, High voltage DC, Linear integrated circuits, Basic electrical engineering, Switch gear protection, Power system analysis and stability, Electric power utilization, Renewable energy sources"
+      },
+      {
+        "question": "Tell me more about Dr. Anitha Marina Colaco.",
+        "answer": "Dr. Anitha Marina Colaco is a distinguished academic and researcher with a strong background in Microelectronics and Control Systems, and a focus on Solid State Lighting Controls for Healthcare. She holds a Ph.D. from MAHE University and an M.Tech in Microelectronics and Control Systems from VTU. Dr. Colaco has been involved in various departmental responsibilities, including student performance coordination, placement coordination, and serving as a member of several committees. Her areas of interest include Solid State Lighting Controls, Design of LED Luminaires, and LED applications for healthcare. Dr. Colaco has received funding for her research and has been involved in numerous conferences, workshops, and faculty development programs, showcasing her expertise and dedication to advancing knowledge in her areas of interest."
+      },
+      {
+        "question": "What is Dr. Rajalakshmi Samaga's highest educational qualification?",
+        "answer": "Ph.D - Electrical and Electronics Engg NITK, Surathkal NITK, Surathkal 2013"
+      },
+      {
+        "question": "What was Dr. Rajalakshmi Samaga's past experience?",
+        "answer": "NMAM Institute of Technology, Nitte, Lecturer & Assistant Professor in EEE Department from September 1990-July 2004, Manipal Institute of Technology - Assistant Professor (Selection Grade) from July 2004 - June 2012, Canara Engineering College - Assistant Professor & HoD (incharge) in EEE department and Professor & HoD in E&C department from June 2012 - April 2022"
+      },
+      {
+        "question": "What are Dr. Rajalakshmi Samaga's areas of interest?",
+        "answer": "Machines and Drives, Controller Design, Machine Learning"
+      },
+      {
+        "question": "What achievements did Dr. Rajalakshmi Samaga secure?",
+        "answer": "Won 3rd prize in the 7th annual national level technical paper contest under research category, VIMantra2010, Educator 2010, Conducted by National Instruments Corporation India, Dec13-14, Chennai. Won 2nd prize in the 8th annual national level technical paper contest under research category, VIMantra2011, Educator 2011, Conducted by National Instruments Corporation, Oct 12-13, Bangalore. Awarded IEEE Student branch CEC honour in recognition of outstanding contribution to the cause of Women and Engineering on the occasion of Women's Day celebration on 10-3-2017. Awarded 1% topper certificate with Gold Elite in NPTEL course on\"Control Engineering\" by Dr.Ramakrishna Pashumarthy, IIT, Chennai in October 2017. Awarded 1% topper certificate with Gold Elite in NPTEL course in \"Advanced Linear Continuous Control Systems: Applications with MATLAB Programming and Simulink\" by Dr.Yogesh Vijay Hote, IIT, Roorkee in October 2019. Awarded Elite-Silver certification in NPTEL course on \"Programming, Data Structures And Algorithms Using Python\"by Prof. Madhavan Mukund, Chennai Mathematical Institute in Jan-March21. Awarded Elite-Silver certification in NPTEL course on\"The Joy of Computing using Python\"by Prof. Sudarshan Iyengar, Prof. Yayati Gupta, IIT Ropar in November 2021. Digital Signal Processing Exercises in Scilab For Better Understanding, A Practical Approach, Interline Publishing in January 2019."
+      },
+      {
+        "question": "What are Dr. Rajalakshmi Samaga's departmental responsibilities?",
+        "answer": "Coordinator Students Performance Monitoring cell, Department Research Coordinator, Mentor for I year Internship activity, NAAC Criteria 3, NBA Criteria 6, Proctor for II-year Students, Coordinator of ICT academy ORACLE technologies, Class advisor 7th sem and I year B.Tech Course coordinator"
+      },
+      {
+        "question": "What professional memberships does Dr. Rajalakshmi Samaga have?",
+        "answer": "ISTE -LM10773"
+      },
+      {
+        "question": "What subjects does Dr. Rajalakshmi Samaga handle?",
+        "answer": "VLSI Design, Modelling and Simulation of Electric Drives, VLSI Design (pSpice Simulation and layout), Lab Power Electronics and Drives, Lab Basic Electrical Technology, Machines Electric.Circuits, Network Theory, Network Synthesis, Measurements (Electrical,Electronic), Power Electronics, HVDC transmission, Advanced Optimization Techniques, Solid State Drives, Computer Programming, Microprocessor, Digital Signal Processing, Utilization of Electrical Energy, Signals and Systems, Microcontrollers, Engineering, Statistics and Linear Algebra, Control Systems, Machines Lab, Circuits, Measurements Lab, Power Electronics Lab, Microprocessor Lab, AEC and DEC Lab, Microcontrollers Lab, Power System Simulation Lab, Digital Signal Processing (Scilab, Matlab) Lab"
+      },
+      {
+        "question": "Tell me more about Dr. Rajalakshmi Samaga.",
+        "answer": "Dr. Rajalakshmi Samaga is a distinguished academic and researcher with a strong background in Electrical and Electronics Engineering, with a focus on Machines and Drives, Controller Design, and Machine Learning. She holds a Ph.D. from NITK, Surathkal, and an M.Tech in Power and Energy Systems from KREC (NITK), Surathkal, Mangalore. Dr. Samaga has served at NMAM Institute of Technology, Nitte, Manipal Institute of Technology, and Canara Engineering College. She has been involved in various departmental responsibilities, including coordinating student performance monitoring, department research, and mentoring internship activities. Her areas of interest include Machines and Drives, Controller Design, and Machine Learning. Dr. Samaga has secured several achievements, including winning prizes in national level technical paper contests and receiving awards for her contributions to the field. She has also been involved in numerous conferences, workshops, and faculty development programs, showcasing her expertise and dedication to advancing knowledge in her areas of interest."
+      },
+      {
+        "question": "What is Dr. Nayana Shetty's highest educational qualification?",
+        "answer": "Ph.D M.Tech in Power and Energy System from NITK Surathkal in 2004-2006, B.E. in Electrical and Electronics from Mangalore University in 1993-1997"
+      },
+      {
+        "question": "What was Dr. Nayana Shetty's past experience?",
+        "answer": "Lecturer in NMAM Institute of Technology from 1997 to 2006, Senior Lecturer in NMAM Institute of Technology from 2006 to 2008, Assistant Professor in NMAM Institute of Technology from 2008 to 2014, Associate Professor in NMAM Institute of Technology from 2014"
+      },
+      {
+        "question": "What are Dr. Nayana Shetty's areas of interest?",
+        "answer": "Renewable Energy, Power System, Power Electronics, Control System"
+      },
+      {
+        "question": "What are Dr. Nayana Shetty's departmental responsibilities?",
+        "answer": "Department Coordinator of Students performance monitoring cell, R&D, Placement Committee, ISTE Chapter NMAMIT, Industrial Visit, Final year UG Project Time Table, Sessional Internship, PG Internship and special topic seminar, PG Project, BOS, BOE, DUGC member of EE Engg, NMAMIT, Nitte, Member of committee in 40th series KSCST Seminar and Exhibition of SPP, Coordinator of \"NCAEE08\" National conference held at NMAMIT, Nitte, 14-15Nov, 2008, Coordinator of International conference (EE EnggDept) held at NMAMIT, Nitte, 4-5 May, 2011, Conducted National workshop on \"Emerging Technology in Power Electronics-Broad Spectrum Review\" during 28 -30th July, 2011 at NMAMIT, Nitte, Convener of \"Nitte Conference NCAEE-2016\" held at NMAMIT, Nitte, on 11-12 April, 2016, Reviewer of Technical Papers in International conference on Emerging Trends in Engg NCAEE-12, NCAEE-13 ICETE-2011, ICETE-2012, ICETE-2017, ICETE-2019, ICETE2020, IEEER10HTC 2021, IEEE-DISCOVER, Technical session chair in NCAEE 2015, NCAEE 2016, ICETE 2016,NCAEE 2017,Publicity committee member in ICETE VSPICE-2019, Track chair for ICETE -AREEV 2020 for Power Systems, Renewable Energy & E-Mobility stream, Technical Session chair in IEEE Discover 2021."
+      },
+      {
+        "question": "What professional memberships does Dr. Nayana Shetty have?",
+        "answer": "Life member of Indian Society for Technical Education(ISTE)-LM25137, Life member of Indian Society of Systems for Science & Engineering(ISSE)-LM02184"
+      },
+      {
+        "question": "What subjects does Dr. Nayana Shetty handle?",
+        "answer": "Solid State Drives, Power Electronics, Control System, Fuzzy Logic Control, Advanced Control System, Transmission and Distribution System, Electrical Measurement and Measuring Instruments, Electrical Power Generation, Switch Gear and Protection, Digital Electronic Circuit, Power System analysis and stability, Basic Electrical Engineering, Non Conventional Energy Systems, Linear System Theory, Industrial Management, Electrical Estimation & Economics"
+      },
+      {
+        "question": "Tell me more about Dr. Nayana Shetty.",
+        "answer": "Dr. Nayana Shetty is a dedicated academic and researcher with a strong background in Electrical and Electronics Engineering, with a focus on Renewable Energy, Power System, Power Electronics, and Control System. She holds a Ph.D. and M.Tech in Power and Energy System from NITK Surathkal and a B.E. in Electrical and Electronics from Mangalore University. Dr. Shetty has served at NMAM Institute of Technology, Nitte, in various capacities, including Lecturer, Senior Lecturer, Assistant Professor, and Associate Professor. Her areas of interest include Renewable Energy, Power System, Power Electronics, and Control System. Dr. Shetty has been involved in numerous departmental responsibilities, including coordinating student performance monitoring, R&D, placement committees, and serving as a member of various committees and boards. She has also been actively involved in organizing and participating in national and international conferences, workshops, and faculty development programs. Her contributions to the field have been recognized through her professional memberships, including being a life member of the Indian Society for Technical Education (ISTE) and the Indian Society of Systems for Science & Engineering (ISSE). Dr. Shetty's expertise spans a wide range of subjects, including Solid State Drives, Power Electronics, Control System, Fuzzy Logic Control, Advanced Control System, Transmission and Distribution System, Electrical Measurement and Measuring Instruments, Electrical Power Generation, Switch Gear and Protection, Digital Electronic Circuit, Power System analysis and stability, Basic Electrical Engineering, Non Conventional Energy Systems, Linear System Theory, Industrial Management, Electrical Estimation & Economics. Her work has been recognized through various achievements, including serving as a technical program committee member in international conferences and as a question paper setter for VTU and MAHE University. Dr. Shetty's dedication to advancing knowledge in her areas of interest and her commitment to education and research make her a valuable asset to the field of Electrical and Electronics Engineering."
+      },
+      {
+        "question": "What is Dr. RAJALAXMI SAMAGA's highest educational qualification?",
+        "answer": "B.E - Electrical & Electronics Engineering SJCE, Mysore 1990 M.Tech.- Power and Energy Systems KREC (NITK), Surathkal , Mangalore 1994 Ph.D - Electrical and Electronics Engg NITK, Surathkal NITK, Surathkal 2013"
+      },
+      {
+        "question": "What was Dr. RAJALAXMI SAMAGA's past experience?",
+        "answer": "NMAM Institute of Technology, Nitte, Lecturer & Assistant Professor in EEE Department from September 1990-July 2004 Manipal Institute of Technology - Assistant Professor (Selection Grade) from July 2004 - June 2012 Canara Engineering College - Assistant Professor & HoD (incharge) in EEE department and Professor & HoD in E&C department from June 2012 - April 2022"
+      },
+      {
+        "question": "What are Dr. RAJALAXMI SAMAGA's areas of interest?",
+        "answer": "Machines and Drives Controller Design Machine Learning"
+      },
+      {
+        "question": "What achievements did Dr. RAJALAXMI SAMAGA secure?",
+        "answer": "Rajalakshmi Samaga BL, \"Investigations into Asymmetrical Fault Detection by Motor Current Signature Analysis of Squirrel Cage Induction Motor\", won 3rd prize in the 7th annual national level technical paper contest under research category, VIMantra2010, Educator 2010, Conducted by National Instruments Corporation India, Dec13-14, Chennai. Rajalakshmi Samaga BL, \"Extraction of dq components of stator currents of an induction motor for mixed eccentricity fault detection\", won 2nd prize in the 8th annual national level technical paper contest under research category, VIMantra2011, Educator 2011, Conducted by National Instruments Corporation, Oct 12-13, Bangalore. IEEE Student branch CEC honour in recognition of outstanding contribution to the cause of Women and Engineering on the occasion of Women's Day celebration on 10-3-2017 Awarded 1% topper certificate with Gold Elite in NPTEL course on\"Control Engineering\" by Dr.Ramakrishna Pashumarthy, IIT, Chennai in October 2017 Awarded 1% topper certificate with Gold Elite in NPTEL course in \"Advanced Linear Continuous Control Systems: Applications with MATLAB Programming and Simulink\" by Dr.Yogesh Vijay Hote, IIT, Roorkee in October 2019 Awarded Elite-Silver certification in NPTEL course on \"Programming, Data Structures And Algorithms Using Python\"by Prof. Madhavan Mukund, Chennai Mathematical Institute in Jan-March21 Awarded Elite-Silver certification in NPTEL course on\"The Joy of Computing using Python\"by Prof. Sudarshan Iyengar, Prof. Yayati Gupta, IIT Ropar in November 2021 Digital Signal Processing Exercises in Scilab For Better Understanding, A Practical Approach, Interline Publishing in January 2019"
+      },
+      {
+        "question": "What are Dr. RAJALAXMI SAMAGA's departmental responsibilities?",
+        "answer": "Coordinator Students Performance Monitoring cell Department Research Coordinator Mentor for I year Internship activity NAAC Criteria 3. NBA Criteria 6. Proctor for II-year Students Coordinator of ICT academy ORACLE technologies Class advisor 7th sem and I year B.Tech Course coordinator"
+      },
+      {
+        "question": "What professional memberships does Dr. RAJALAXMI SAMAGA have?",
+        "answer": "ISTE -LM10773"
+      },
+      {
+        "question": "What subjects does Dr. RAJALAXMI SAMAGA handle?",
+        "answer": "VLSI Design Modelling and Simulation of Electric Drives VLSI Design (pSpice Simulation and layout) Lab Power Electronics and Drives Lab Basic Electrical Technology Machines Electric.Circuits Network Theory Network Synthesis Measurements (Electrical,Electronic) Power Electronics HVDC transmission Advanced Optimization Techniques Solid State Drives Computer Programming Microprocessor Digital Signal Processing Utilization of Electrical Energy Signals and Systems Microcontrollers Engineering Statistics and Linear Algebra Control Systems Machines Lab Circuits, Measurements Lab Power Electronics Lab Microprocessor Lab AEC and DEC Lab Microcontrollers Lab Power System Simulation Lab Digital Signal Processing (Scilab, Matlab) Lab"
+      },
+      {
+        "question": "What is Dr. M SATYENDRA KUMAR SHET's highest educational qualification?",
+        "answer": "Ph. D - Power Electronics and Drives - National Institute of Technology , Karnataka 2011 M. Tech - Power Electronics- Bangalore University 1993 B. E - Electrical - Mangalore University - 1987"
+      },
+      {
+        "question": "What was Dr. M SATYENDRA KUMAR SHET's past experience?",
+        "answer": "As a Lecturer in KVGCE, Sullia As an Asst. Lecturer in KREC Surathkal As An Asst. Professor in NMAMIT, Nitte As An Professor in SJEC , Mangalore As a Professor in NMAMIT, Nitte"
+      },
+      {
+        "question": "What are Dr. M SATYENDRA KUMAR SHET's areas of interest?",
+        "answer": "Power Electronics & Drives, Renewable energy Systems, Switch mode power converters Energy audit and energy management, Electric Vehicle"
+      },
+      {
+        "question": "What are Dr. M SATYENDRA KUMAR SHET's departmental responsibilities?",
+        "answer": "HOD, BOS and BOE Member TPC member and Reviewer for Various IEEE conferences Reviewer of IEEE open access journal and Text Book proposal on \"small electric vehicles'- World Scientific, 57 Shelton Street, Covent Garden, London,WC2H9HE, UK. www.worldscientific.com Design & development of all E & E Engg Laboratories Organized International Conference, state level project exhibition & competitions, seminars & student welfare programmes Also 11 years as NCC officer"
+      },
+      {
+        "question": "What professional memberships does Dr. M SATYENDRA KUMAR SHET have?",
+        "answer": "ISTE Life member ISHRAE life member"
+      },
+      {
+        "question": "What subjects does Dr. M SATYENDRA KUMAR SHET handle?",
+        "answer": "Electrical Machines :D.C and AC Machines, Transmission andDistribution Switch Gear and Protection Industrial Management Economics and Estimation(IMEE) AC and DC drives Solid State Power Controllers Industrial Drives and applications Electrical power Utilization Digital Control Systems Reactive Power Management Management and Entrepreneurship Power Electronics"
+      },
+      {
+        "question": "What is Dr. M SATYENDRA KUMAR SHET's project guide experience?",
+        "answer": "B. E. Projects : 18 M.Tech. Projects : 08 Ph. D project : 02 (ongoing)"
+      },
+      {
+        "question": "What additional information does Dr. M SATYENDRA KUMAR SHET have?",
+        "answer": "Book Chapter: 'Role of Blockchain Technology Pandemic and Insight into Data Analysis for Covid-19' in edited book titled \"Blockchains in Digital Healthcare\" to be released in December 2021. Prof. Dr Roberto Moro Visconti ,University Cattolica del Sacro Cuore, Milano, Italy (roberto.moro@unicatt.it; roberto.morovisconti@morovisconti.it) Dr Malaya Dutta Borah , National Institute of Technology Silchar, Assam, India (malayaduttaborah@gmail.com, malayaduttaborah@cse.nits.ac.in) Dr G C Deka  , Directorate General of Training, Ministry of Skill Development & Entrepreneurship, "
+      },
+      {
+        "question": "What is Dr. SURYANARAYANA K's highest educational qualification?",
+        "answer": "Ph. D M. Tech in System Analysis and Computer Applications., KREC, Surathkal -2001 B.E. in Electrical and Electronics Engineering, Mangalore University, 1998."
+      },
+      {
+        "question": "What was Dr. SURYANARAYANA K's past experience?",
+        "answer": "Professor & Head from 01-10-2021 Professor in NMAM Institute of Technology from 2019 Associate Professor in NMAM Institute of Technology from 2014 - 2019 Assistant Professor in NMAM Institute of Technology from 2010 to 2013 Lecturer in NMAM Institute of Technology from 1998 to 1999 Industry in Bharat Electronics Limited, Central Research Laboratory from 2001 to 2005 Industry - in Sling Media Pvt. Ltd. from 2005 to 2007 Industry - in Mistral Solutions Pvt. Ltd from 2007 to 2008 Industry - in Tandberg Technology India Pvt. Ltd from 2008 to 2010"
+      },
+      {
+        "question": "What are Dr. SURYANARAYANA K's areas of interest?",
+        "answer": "Power Electronics Control System Signal Processing"
+      },
+      {
+        "question": "What are Dr. SURYANARAYANA K's departmental responsibilities?",
+        "answer": "Head of the Department In-charge - Center for Design of Power Electronic Systems, Research and Innovation Centre In-charge of ELIXIR Mentor - Atal Tinkering Laboratory - MRSM and NSAM English Medium Schools"
+      },
+      {
+        "question": "What professional memberships does Dr. SURYANARAYANA K have?",
+        "answer": "IEEE ISSI"
+      },
+      {
+        "question": "What subjects does Dr. SURYANARAYANA K handle?",
+        "answer": "Electromagnetic Field Theory Network Analysis Network Analysis Digital Signal Processing Analog Electronic Circuits Switched Mode Power Converters Basic Electrical Engineering"
+      },
+      {
+        "question": "What additional information does Dr. SURYANARAYANA K have?",
+        "answer": "Program Chair - 2021 IEEE DISCOVER Reviewer 2021 IEEE DISCOVER Reviewer IEEE Accesss PiOCtave Solutions, Bengaluru - Consultancy Member of the Technical Committee of the 32nd Annual ISTE Convention and National Seminar held at NMAMIT, Nitte during Dec 27-29, 2002 PiiTechSolutions, Bengaluru - Consultancy Consultancy to HEXMOTO Controls Pvt. Ltd. -From January 2014 - October 2017 Conducted PCB design workshop in Canara Engineering College, Mangalore on 29, 30 September and 2 October 2018 Conducted FDP on Design, Analyses, Control and Hardware Implementation of Switched Mode Power Converters, 2018 Conducted 60-day student internship during June and July 2018 for Electrical and Electronics Staff coordinator for 40th series KSCST Seminar and Exhibition of Student Project Program (For project exhibition) help on 11 & 12 August 2017 at NMAM Institute of Technology Attended workshop on 'Introduction to Patents' held on 28 July 2017 at NMAM Institute of Technology by the department of Humanities and Biotechnology Engineering Conducted a workshop on 'Basic Electrical Engineering Made Easy' on 26 April 2017 at St Joseph Engineering College, Mangaluru Conducted a workshop on 'Basic Electrical Engineering Made Easy' on 6 April 2017 at Canara Engineering College, Mangaluru Conducted a workshop on 'Design of HF Inductor for Power Electronics Applications' on 5 May 2015 at Canara Engineering College, Mangaluru Part of Japan- Asia Youth exchange program in Science administrated by the Japan Science and Technology Agency at Ritsumeikan University from June 10 to 30 in 2015 Projects at Center of Design of Power Electronic Systems - Research and Innovation center"
+      },
+      {
+        "question": "What is Dr. NAGESH PRABHU's highest educational qualification?",
+        "answer": "Ph.D in Power Systems and Power Electronics from Indian Institute of Science (IISc) Bangalore - 2005 M.Tech in Karnataka Regional Engineering College, Surathkal in 1995 AMIE, Electrical Engineering -Institution of Engineers, KOLKATTA in 1991 DEE, Karnataka Polytechnic, Mangalore, 1986"
+      },
+      {
+        "question": "What was Dr. NAGESH PRABHU's past experience?",
+        "answer": "N.M.A.M. Institute of Technology, Nitte, Karnataka, INDIA, 574 110 - Professor & Head from 12-12-2013 to 30-09-2021 Canara Engineering College, Bantwal, Mangalore - Principal - 18-02-2009 to 06-12-2013 Nitte Meenakshi Institute of Technology, Bangalore - Professor -23-10-2008 to10-02-2009 Vel S.R.S. College of Multimedia (Engg.), Avadi, Chennai, INDIA, 600 062 -Vice Principal, & Professor and Dean of EEE - 29-05-2007 to16-10-2008 Vel S.R.S. College of Multimedia (Engg.), Avadi, Chennai, INDIA, 600 062 -Professor and Dean of EEE - 17-07-2006 to 28-05-2007 J.N.N. College of Engineering. Shimoga, Karnataka,INDIA, 577 204 - Asst. Professor - 18-04-2005 to14-07-2006 J.N.N. College of Engineering. Shimoga, Karnataka, INDIA, 577 204 - Sr. Lecturer - 02-11-1998 to 17-04-2005 N.M.A.M. Institute of Technology, Nitte, Karnataka, INDIA, 574 110 - Sr. Lecturer - 15-05-1995 to31-10-1998 N.M.A.M. Institute of Technology, Nitte, Karnataka, INDIA, 574 110 , Lecturer - 06-10-1991 to14-05-1995 N.M.A.M. Institute of Technology, Nitte, Karnataka, INDIA, 574 110 , Asst. Lecturer -01-05-1991 to05-10 1991 N.M.A.M. Institute of Technology, Nitte, Karnataka, INDIA, 574 110 , Demonstrator -16-08-1986 to 30-04-1991"
+      },
+      {
+        "question": "What are Dr. NAGESH PRABHU's areas of interest?",
+        "answer": "Power System Dynamics and Control HVDC, FACTS Power Quality and Custom Power Controllers Smart Grid Applications Application of Machine Learning and AI techniques to Power Systems"
+      },
+      {
+        "question": "What are Dr. NAGESH PRABHU's departmental responsibilities?",
+        "answer": "NAAC Coordinator of NMAMIT PG Coordinator for all M. Tech programs of NMAMIT Coursera Coordinator for NMAMIT NAIN, College Coordinator Research advisory committee, member"
+      },
+      {
+        "question": "What professional memberships does Dr. NAGESH PRABHU have?",
+        "answer": "Associate Editor, IEEE ACCESS, Multidisciplinary Open Access Journal Member of ExCom, IEEE PES Chapter, Bengaluru Member of Indian Society for Technical Education Member of IEEE, USA Fellow of Indian Society for Lighting Engineers"
+      },
+      {
+        "question": "What subjects does Dr. NAGESH PRABHU handle?",
+        "answer": "Website: http://elearning.vtu.ac.in/esk4.php You tube : https://www.youtube.com/watch?v=1kiuou7C0qs&list=PLcwp2fRcIXJWFKh_LrhY2Uu07DqDWPPId&index=13 FACTS Controllers HVDC Transmission, HV Engg, Illumination Engineering Computer Techniques in Power system Analysis DC machines & Synchronous Machines, Transformer and Induction Motors Transmission and Distribution Design of Electrical machines Measurements and Instrumentation Network Analysis Field Theory Power System Analysis"
+      },
+      {
+        "question": "What are the specific projects Dr. NAGESH PRABHU has guided?",
+        "answer": "\"Application of GA and AI techniques for power system stability with voltage source converter based FACTS controllers\" awarded from JNTU Hyderabad/ R.Thirumalaivasan/2014 \"Investigations on Stability of Power Systems with VSC based FACTS and HVDC Controllers\" awarded from JNTU Hyderabad/M.Janaki/2015 \"Analysis and Control of Bifurcations in Power System with FACTS Controllers\". awarded from VTU /R.C mala/ 2020 \"Detection and Classification of faults in Power system incorporating FACTS Devices for Stability Enhancement\" awarded from VTU /H.V GururajaRao/2020 \"Enhancement of Power System Stability and Power Quality with FACTS and Custom Power Controllers\"/VTU/Pradeep Kumar/Ongoing \"Analysis of Small Signal stability of power Systems and Damping of Low Frequency Oscillations with VSC based FACTS and HVDC Controllers\"/VTU/Dinesh Shetty/ Ongoing Simulation & hardware implementation of grid connected PV system/RaghavendraPrabhu/2015 Driver Alertness Monitoring using Visual Analysis of Eye state and Head Pose/NamithaD'souza/2015 Design and implementation of single phase grid tie inverter/ Disha/2016 VSC based Series resistance and reactance emulation as distribution system fault current limiter/Shravya J/2016 Enhancement of voltage regulation using thyristor controlled series capacitor/HimaniPrabhakar/2016 Modelling and application of electrical spring for enhancement of load voltage regulation/Benzeeta Ann D'souza/2016 Remote monitoring and control system of three phase generator using Zigbee wireless network/ Sachin Kumar B. S./2016 Simulation and control of a three phase inverter with energy storage for demand side management/Jayashree /2017 Application of SVC for Reactive Power Compensation/ Surya Prakash, SumanaAchar, Sumanraj/2015 Unipolor SPWM Based Reactive Power Compensator/ Nishanth, SourabhAravindRao, ApoorvaShetty, MadhumitaPoddar/2015 Magneto Piezo foot Step Power Generation / Manish Kumar Raghavji, RanjithaPriyanka T P, Shreeya G Rao/2016 Analysis & development of energy efficient smart remote speed controller for a ceiling fan/ShettyPrathik, Ritesh Kumar, SohanCastelino& Elvis WalterCrasto/2016 Smart Projector/SushmithaShetty,Shehraj A M Shaik, Sagar B Rao/2017 Battery management System/Akash Kumar Singh, Joel Fernandes, Ganesh Prasad and Jay Kumar/2017 \"Single phase active filter for harmonic current elimination\"/Raksha , Shreya ShettyRamya, Suparna Holla/2018 \"Software testing in electronicstability program\" / Robert Bosch Engineering and Business Solutions Pvt. Ltd./G NikithaNayak/2019 \"Build-up of medium duty diesel Electric hybrid commercial vehicle Demonstrator\"/ Robert Bosch Engineering and Business Solutions Pvt. Ltd/Afraa M Shaikh/2019 Dynamic Voltage Restorer (DVR) for power quality enhancement\" /Niranjan V Ullal, SPoornima, Shreyas P P, Vasishta VBhat/2021"
+      },
+      {
+        "question": "What are the publications and contributions Dr. NAGESH PRABHU has made?",
+        "answer": "International Journal of Power and Energy Systems (Elsevier) Ain Shams Engineering Journal (Elsevier) IEEE Transactions on Power Delivery IEEE Transactions on Power Systems International journal of IET - Generation Transmission & Distribution Journal of Power Electronics, Korea International Journal of control, Singapore Sadhana Academy Proceedings in Engineering Sciences of Springer Publication IEEE Access IEEE Power and Energy Technology systems Journal IEEE Transactions on Energy Conversion IEEE Transactions on Sustainable Energy IET Renewable Power Generation International Journal of Electric Power System Research (Elsevier) International Journal of Mechanical Systems and Signal Processing (Elsevier) Renewable Energy Focus Energy Reports (Elsevier)"
+      },
+      {
+        "question": "What are the grants and funding Dr. NAGESH PRABHU has received?",
+        "answer": "\"Centre of Excellence (CoE) on Wide Bandgap Power Electronics Technologies (WBGPET)\" Rs 60 Lakhs granted by KCTU, GOK, 2019, Ongoing \"Development of HYBRID ELECTRIC VEHICLE and SOLAR CHARGING LAB\", Rs 10.54 Lakhs MODROBS, AICTE, 2020 Ongoing \"Control of Power Electronic Converters for Smart Power Systems\", Rs 3.63 Lakhs, AICTE STTP, 2019, Completed \"GA and AI Techniques for the Enhancement of Power System Stability with Voltage Source Converter based FACTS and HVDC Controllers\", 4.60 Lakhs, RPS, AICTE,2008, Completed \"Application of Machine Learning and Artificial Intelligence Techniques for Control of Future power grid\", Rs 4.033 Lakhs, AICTE STTP, 2021, Completed"
+      },
+      {
+        "question": "Tell me more about Dr. NAGESH PRABHU",
+        "answer": "Dr. NAGESH PRABHU is a distinguished academic and researcher in the field of Power Systems and Power Electronics. With a Ph.D. from the Indian Institute of Science (IISc) Bangalore and a M.Tech from Karnataka Regional Engineering College, Surathkal, he has a rich academic background. His career spans various prestigious institutions, including N.M.A.M. Institute of Technology, Nitte, Canara Engineering College, Bantwal, and Nitte Meenakshi Institute of Technology, Bangalore, where he has held positions ranging from Assistant Professor to Principal. Dr. Prabhu's areas of interest include Power System Dynamics and Control, HVDC, FACTS, Power Quality, and Custom Power Controllers, with a particular focus on Smart Grid Applications and the application of Machine Learning and AI techniques to Power Systems. He has been actively involved in faculty development programs, technical lectures, and research, contributing significantly to the field of power electronics and power systems."
+      }
+]
