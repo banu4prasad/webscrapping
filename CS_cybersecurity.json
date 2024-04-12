@@ -120,6 +120,36 @@
     {
       "question": "What role does risk assessment play in Cyber Security planning?",
       "answer": "Risk assessment helps identify and prioritize potential threats and vulnerabilities, allowing organizations to allocate resources effectively and implement targeted security measures."
-    }
+    },
+    {
+    "question": "What are Dr. Roshan Fernandes' educational qualifications?",
+    "answer": "Dr. Roshan Fernandes has a PhD degree from VTU Belagavi in the year 2019, an MTech degree in Computer Engineering from SJCE, Mysuru with First rank and Gold Medal for VTU, Belagavi in the year 2007, and a BE degree in Computer Science and Engineering from MIT, Manipal affiliated to Mangalore University in the year 2001."
+},
+{
+    "question": "What is Dr. Roshan Fernandes' past experience?",
+    "answer": "Dr. Roshan Fernandes has worked as an Associate Professor in the Department of Computer Science and Engg at NMAMIT, Nitte since 28 February 2004, and has also served as a Project Trainee in Motorola India Pvt Ltd, Bangalore for 1 year as part of an MTech project. He has held positions as a Lecturer and Assistant Lecturer in various institutions."
+},
+{
+    "question": "What are Dr. Roshan Fernandes' areas of interest?",
+    "answer": "Dr. Roshan Fernandes' areas of interest include Natural Language Processing, Machine Learning, Deep Learning, Mobility and Mobile Web Services, and Algorithms."
+},
+{
+    "question": "What are Dr. Roshan Fernandes' professional memberships?",
+    "answer": "Dr. Roshan Fernandes is a Life Member of the Indian Society for Technical Education."
+},
+{
+    "question": "What subjects does Dr. Roshan Fernandes handle?",
+    "answer": "Dr. Roshan Fernandes handles subjects including Design and Analysis of algorithms, Compiler Design, Microprocessors and Peripherals, Java and Internet technologies, Advanced DBMS, Data Mining and Data Warehousing, Mobile Application Development using Android, Data Structures, System Software, Advanced Web Technologies, Unix System Programming, Embedded Systems, Machine Learning, Cloud Computing, Natural Language Processing, and Advanced Algorithms."
+},
+{
+    "question": "What are Dr. Roshan Fernandes' conference/journal publications?",
+    "answer": "Dr. Roshan Fernandes has published in various conferences and journals, including a book chapter titled \"Lightweight Context-Based Web-Service Composition Model for Mobile Devices\" in Springer publications, and \"Social Big Data Mining: A Survey Focused on Sentiment Analysis\" in the Handbook of Research on Emerging Trends and Applications of Machine Learning by IGI Global publications."
+},
+{
+    "question": "Tell me more about Dr. Roshan Fernandes",
+    "answer": "Dr. Roshan Fernandes is a distinguished faculty member with a rich background in computer science and engineering. He holds a PhD degree from VTU Belagavi, an MTech degree in Computer Engineering from SJCE, Mysuru, and a BE degree in Computer Science and Engineering from MIT, Manipal. His areas of interest include Natural Language Processing, Machine Learning, Deep Learning, Mobility and Mobile Web Services, and Algorithms. He has served in various academic and research roles, including as an Associate Professor and Head of the Department of Computer Science and Engg at NMAMIT, Nitte. Dr. Fernandes is a Life Member of the Indian Society for Technical Education and has contributed to the field through numerous conference and journal publications."
+}
+
+
   ]
 }
