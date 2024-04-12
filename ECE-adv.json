@@ -1,4 +1,6 @@
-[
+{
+  "questions_and_answers": 
+  [
   {
     "question": "What is the focus of the B.Tech in Electronics and Communications Engineering (Advanced Communication Technology) program?",
     "answer": "The focus of the ECE (ACT) program is on Communication Networks, Embedded Systems, Digital Signal Processing, 5G, WiFi 6, IoT, Network Security, Information Technology and Advanced Communication Technologies.\nFor further details please visit https://nmamit.nitte.edu.in/department-Communication.php"
@@ -124,3 +126,4 @@
     "answer": "the syllabus of ECE (ACT) department for the batch 2022-2026 is avaliable at the college website, For more details please visit https://nmamit.nitte.edu.in/syllabus/ndu/2023-27/B.Tech._EC_ACT_Regulations_2023.pdf"
   }
 ]
+}
