@@ -1,5 +1,1 @@
-Faculty(RAW).json, facultyemail.json and facultyemail.json not needed for ML model
-<br>
-Rest all files are done accordingly
-<br>
-there is a sight issue is icredia.json file some suggestions are needed
+The above .json files are the RAW files which consists of Questions and answers which are required for the training purposes of the model
